@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "companyName": "Coinbase",
     "companyLink": "https://arc.dev/company/coinbase",
@@ -18964,4 +18965,4 @@
     "companyLink": "https://arc.dev/company/outrider",
     "companyPhoto": "https://lever-client-logos.s3-us-west-2.amazonaws.com/1f81d6d8-b6c5-450b-94d4-1b6c0290b2aa-1582100187055.png"
   }
-]
+]}
