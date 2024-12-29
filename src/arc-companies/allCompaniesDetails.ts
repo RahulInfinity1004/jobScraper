@@ -75,9 +75,16 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<CompanyDe
             frontend: [],
             backend: []
         };
-
+        try {
+            // Wait for the technologies container if it exists
+            await page.waitForSelector('.sc-b4c662ee-2.gwgdVg', { timeout: 5000 });
+            console.log('Technologies container found.');
+        } catch {
+            console.log('Technologies container not found. Skipping technology scraping.');
+            return technologies; // Return empty if the container is not found
+        }
         // Get front-end technologies
-        await page.waitForSelector('div.sc-b4c662ee-2.gwgdVg'); // Ensure the section is loaded
+        // await page.waitForSelector('div.sc-b4c662ee-2.gwgdVg'); // Ensure the section is loaded
         const frontendContent = await page.content();
         let $ = cheerio.load(frontendContent);
 

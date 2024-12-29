@@ -1,13 +1,8 @@
 {
     "data": [
     {
-      "companyName": "Coinbase",
-      "companyLink": "https://arc.dev/company/coinbase",
-      "companyPhoto": "https://logo.clearbit.com/coinbase.com"
-    },
-    {
       "companyName": "MongoDB",
-      "companyLink": "https://arc.dev/company/atlassian",
+      "companyLink": "https://arc.dev/company/coinbase",
       "companyPhoto": "https://logo.clearbit.com/mongodb.com"
     }]
 }
