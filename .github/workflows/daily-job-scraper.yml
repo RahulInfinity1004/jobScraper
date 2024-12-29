@@ -1,6 +1,8 @@
 name: Daily Job Scraper
 
 on:
+  schedule:
+    - cron: '0 6 * * *' 
   push:
     branches:
       - main
@@ -8,6 +10,7 @@ on:
     branches:
       - main 
   workflow_dispatch:
+  
 
 jobs:
   scrape-and-update:
