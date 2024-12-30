@@ -1,0 +1,2404 @@
+[
+  {
+    "companyName": "Coinbase",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Coinbase is an online platform that allows merchants, consumers, and traders to transact with digital currency.merchants and consumers can transact with new digital currencies like bitcoin, ethereum, and litecoin",
+    "location": "👥5,001-10,000",
+    "summary": "open financial system",
+    "logo": "https://logo.clearbit.com/coinbase.com",
+    "socialLinks": [
+      "https://coinbase.com",
+      "https://www.facebook.com/Coinbase",
+      "https://twitter.com/coinbase",
+      "https://www.linkedin.com/company/coinbase/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$573.7M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Fintech, Blockchain/Cryptocurrency",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "MongoDB",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "MongoDB is a next-generation database that helps businesses transform their industries by harnessing the power of data.provides high performance data persistence",
+    "location": "📍New York, United States",
+    "summary": "modern general purpose database platform",
+    "logo": "https://logo.clearbit.com/mongodb.com",
+    "socialLinks": [
+      "https://mongodb.com",
+      "https://www.facebook.com/MongoDB/",
+      "https://twitter.com/mongodb",
+      "https://www.linkedin.com/company/mongodbinc/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$311M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Pinterest",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Pinterest is a visual bookmarking tool for saving and discovering creative ideas.Pinterest's mission is to bring everyone the inspiration to create a life they love. It’s the biggest dataset of ideas ever assembled, with over 200 billion recipes, home hacks, style inspiration and other ideas to try.",
+    "location": "👥1,001-5,000",
+    "summary": "Everyone the inspiration to create a life they love.",
+    "logo": "https://photos.angel.co/startups/i/281-b4cb685d7b58fc51f60794ec6db2608d-medium_jpg.jpg?buster=1580893755",
+    "socialLinks": [
+      "https://pinterest.com",
+      "http://www.facebook.com/pinterest",
+      "http://twitter.com/Pinterest",
+      "https://www.linkedin.com/company/pinterest/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.5B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Social Network",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Stripe",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Stripe is a developer-oriented commerce company helping small and large companies accept web and mobile payments. The company combines economic infrastructure with a set of applications fornew business models like crowdfunding and marketplaces, fraud prevention, analytics, and more.Stripe builds financial tools and economic infrastructure for the internet. It navigates global regulatory uncertainty and partners closely with internet leaders like Apple, Google, Alipay, Tencent, Facebook, Twitter to launch new capabilities.",
+    "location": "📍San Francisco, CA",
+    "summary": "developer-oriented commerce company",
+    "logo": "https://photos.angel.co/startups/i/37232-b86e6247bcd9846c18c91fe65ca0355d-medium_jpg.jpg?buster=1589637460",
+    "socialLinks": [
+      "https://stripe.com",
+      "https://www.facebook.com/StripeHQ",
+      "https://twitter.com/stripe",
+      "https://www.linkedin.com/company/stripe/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$2.2B",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "shopify",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Shopify is a cloud-based, multi-channel commerce platform designed for small and medium-sized businesses.allows anyone to set up an online store and sell their products.",
+    "location": "👥5,001-10,000",
+    "summary": "subscription-based software",
+    "logo": "https://logo.clearbit.com/shopify.com",
+    "socialLinks": [
+      "https://shopify.com",
+      "https://www.facebook.com/shopify/",
+      "https://twitter.com/shopify",
+      "https://ca.linkedin.com/company/shopify",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$122.3M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼eCommerce",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "HubSpot",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "HubSpot develops cloud-based, inbound marketing software that allows businesses to transform the way that they market online. Its service portfolio includes social media publishing and monitoring, blogging, SEO, website content management, email marketing, marketing automation, and reporting and analytics.Hubspot helps companies build remarkable customer experiences with a CRM platform that’s designed for scale.",
+    "location": "📍Cambridge, Massachusetts",
+    "summary": "CRM platform for scaling companies",
+    "logo": "https://logo.clearbit.com/hubspot.com",
+    "socialLinks": [
+      "https://hubspot.com",
+      "https://www.facebook.com/hubspot",
+      "https://twitter.com/HubSpot",
+      "https://www.linkedin.com/company/hubspot/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$100.5M",
+      "Last funding round type": "Series E",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "atlassian",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Atlassian provides tools for teams, from startup to enterpriseAtlassian provides tools for teams, from startup to enterprise",
+    "location": "📍Sydney, NSW, AU",
+    "summary": "Atlassian provides tools for teams, from startup to enterprise",
+    "logo": "https://photos.angel.co/startups/i/65788-6be6737b1863abf0839ccf75db32c8f9-medium_jpg.jpg?buster=1589598635",
+    "socialLinks": [
+      "https://atlassian.com",
+      "https://www.facebook.com/Atlassian/",
+      "https://twitter.com/atlassian",
+      "https://au.linkedin.com/company/atlassian",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$210M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "ExtraHop Networks",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "ExtraHop is on a mission to stop advanced threats with security that can’t be undermined, outsmarted, or compromised.ExtraHop helps organizations to stop advanced threats with security that can’t be undermined, outsmarted, or compromised.",
+    "location": "👥501-1,000",
+    "summary": "Uses cloud-scale AI to stop advanced threats",
+    "logo": "https://ucarecdn.com/c3fd8eef-786a-4fd6-ab50-35c41003b88b/",
+    "socialLinks": [
+      "https://www.extrahop.com/",
+      "https://www.facebook.com/extrahop/",
+      "https://twitter.com/extrahop",
+      "https://www.linkedin.com/company/extrahop-networks/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$61.6M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "LinkedIn",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.connects the world's professionals to make them more productive and successful",
+    "location": "👥10,000+",
+    "summary": "world's largest professional network",
+    "logo": "https://logo.clearbit.com/linkedin.com",
+    "socialLinks": [
+      "https://linkedin.com",
+      "https://www.facebook.com/LinkedIn",
+      "https://twitter.com/linkedin",
+      "https://www.linkedin.com/company/linkedin/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$154.8M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Recruiting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "mozilla",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Mozilla provides internet solutions and offers Firefox, Thunderbird, and Raindrop.Mozilla provides internet solutions and offers Firefox, Thunderbird, and Raindrop.",
+    "location": "📍Mountain View, California, United States",
+    "summary": "A free software community",
+    "logo": "https://logo.clearbit.com/mozilla.org",
+    "socialLinks": [
+      "https://mozilla.org",
+      "https://www.facebook.com/mozilla",
+      "https://twitter.com/mozilla",
+      "https://www.linkedin.com/company/mozilla-corporation/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$2.3M",
+      "Last funding round type": "Angel",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "Reddit",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Reddit is an American social news aggregation, web content rating, and discussion website. It enables users to submit links, create content, and have discussions about the topics of their interest. The comments and posts can be upvoted or downvoted, and the most interesting content rises to the top.Reddit is home to thousands of communities, endless conversation, and authentic human connection. Whether you're into breaking news, sports, TV fan theories, or a never-ending stream of the internet's cutest animals, there's a community on Reddit for you.",
+    "location": "📍San Francisco, CA",
+    "summary": "Social news aggregation and discussion website",
+    "logo": "https://photos.angel.co/startups/i/43503-53d2b3bb436c1b4bb9662d2d431e1b2b-medium_jpg.jpg?buster=1580888032",
+    "socialLinks": [
+      "https://reddit.com",
+      "https://www.facebook.com/reddit/",
+      "https://twitter.com/reddit",
+      "https://www.linkedin.com/company/reddit-com",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.3B",
+      "Last funding round type": "Series F",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "github",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "GitHub provides code hosting services that allow developers/people to build software for open source and private projects in organizations. It designs and develops an online platform to allows users to store and share codes repositories with friends, co-workers, classmates, and complete strangers.GitHub is much more than code. It is the home of open source collaboration. It is where new developers get started and where experienced developers expand their knowledge. It is a community where developers come together to solve the unsolvable and test the limits of what software can do.",
+    "location": "📍San Francisco, CA",
+    "summary": "Web-based Git repository hosting service",
+    "logo": "https://logo.clearbit.com/github.com",
+    "socialLinks": [
+      "https://github.com",
+      "https://facebook.com/github",
+      "https://twitter.com/github",
+      "https://linkedin.com/company/github",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$350M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Apple",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Apple is a multinational corporation that designs, manufactures, and markets consumer electronics, personal computers, and software.Apple provides many products and services,including iPhone; iPad; iPod; Mac; Apple TV; a portfolio of consumer and professional software applications; the iOS and OS X operating systems; iCloud; and accessories, service, and support offerings.",
+    "location": "📍Cupertino, CA",
+    "summary": "Only Apple gets you supercharged for college.",
+    "logo": "https://logo.clearbit.com/apple.com",
+    "socialLinks": [
+      "https://apple.com",
+      "https://www.facebook.com/apple",
+      "https://twitter.com/apple",
+      "https://www.linkedin.com/company/apple/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥10,000+",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Etsy",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Etsy is a marketplace where people around the world connect, both online and offline, to make, sell and buy unique goods.Etsy is the global marketplace for unique and creative goods.",
+    "location": "📍Brooklyn, New York, United States",
+    "summary": "Global marketplace",
+    "logo": "https://logo.clearbit.com/etsy.com",
+    "socialLinks": [
+      "https://etsy.com",
+      "https://www.facebook.com/Etsy",
+      "https://twitter.com/etsy",
+      "https://www.linkedin.com/company/etsy/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$97.3M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Slack",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Slack is a global collaboration hub that makes people’s working lives simpler, more pleasant, and more productive. From global Fortune 100 companies to corner markets, businesses, and teams of every kind use Slack to bring the right people together with all the right information.Slack is an enterprise software platform that allows teams and businesses of all sizes to communicate effectively.",
+    "location": "📍San Francisco, CA",
+    "summary": "channel-based messaging platform",
+    "logo": "https://logo.clearbit.com/slack.com",
+    "socialLinks": [
+      "https://slack.com",
+      "https://www.facebook.com/slackhq",
+      "https://twitter.com/slackhq",
+      "https://www.linkedin.com/company/tiny-spec-inc/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.4B",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Fastly",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Fastly’s edge cloud platform enables the best of the web to thrive, and helps you deliver better online experiences.Fastly helps digital businesses keep pace with their customer expectations by delivering secure and online experiences.",
+    "location": "📍San Francisco, California, United States",
+    "summary": "Get more powerful websites and applications",
+    "logo": "https://photos.angel.co/startups/i/49096-0f814ad4d06ef6ffd2888d7cdf618363-medium_jpg.jpg?buster=1589624143",
+    "socialLinks": [
+      "https://fastly.com",
+      "https://www.facebook.com/FastlyEdgeCloud",
+      "https://twitter.com/fastly",
+      "https://www.linkedin.com/company/fastly/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$219M",
+      "Last funding round type": "Series F",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "LinkedIn",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.connects the world's professionals to make them more productive and successful",
+    "location": "👥10,000+",
+    "summary": "world's largest professional network",
+    "logo": "https://logo.clearbit.com/linkedin.com",
+    "socialLinks": [
+      "https://linkedin.com",
+      "https://www.facebook.com/LinkedIn",
+      "https://twitter.com/linkedin",
+      "https://www.linkedin.com/company/linkedin/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$154.8M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Recruiting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "circleci",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "CircleCI is the world’s largest shared continuous integration and continuous delivery (CI/CD) platform, and the central hub where code moves from idea to delivery. As one of the most-used DevOps tools that processes more than 1 million builds a day, CircleCI has unique access to data on how engineering teams work, and how their code runs.CircleCI is a continuous integration and delivery platform that helps software teams rapidly release code with confidence by automating the build, test, and deploy process. It lets teams ramp quickly, scale easily, and build confidently every day.",
+    "location": "📍San Francisco, CA",
+    "summary": "Continuous integration and delivery platform",
+    "logo": "https://photos.angel.co/startups/i/29008-6e6dd5256518d42f047977b7de03d17a-medium_jpg.jpg?buster=1589618068",
+    "socialLinks": [
+      "https://circleci.com",
+      "https://www.facebook.com/circleci",
+      "https://twitter.com/circleci",
+      "https://www.linkedin.com/company/circleci/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$315M",
+      "Last funding round type": "Series F",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Netflix",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Netflix is an online platform that enables users to watch TV shows and movies.offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more",
+    "location": "📍Los Gatos, California, United States",
+    "summary": "streaming service",
+    "logo": "https://logo.clearbit.com/netflix.com",
+    "socialLinks": [
+      "https://netflix.com",
+      "https://www.facebook.com/netflixtw/?brand_redir=6275848869",
+      "https://twitter.com/netflix",
+      "https://www.linkedin.com/company/netflix",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$3.1B",
+      "Last funding round type": "Post-IPO Debt",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Cisco",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Cisco enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time.Cisco develops, manufactures, and sells networking hardware, telecommunications equipment, and other technology services and products.",
+    "location": "👥10,000+",
+    "summary": "Internet work",
+    "logo": "https://logo.clearbit.com/cisco.com",
+    "socialLinks": [
+      "https://cisco.com",
+      "https://www.facebook.com/cisco/",
+      "https://twitter.com/Cisco/",
+      "https://www.linkedin.com/company/cisco/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$2.5M",
+      "Last funding round type": "Series A",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Social Network",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "Twilio",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Twilio is a cloud communication company that enables users to use standard web languages to build voice, VoIP, and SMS apps via a web API.Twilio has democratized communications channels like voice, text, chat, video, and email by virtualizing the world’s communications infrastructure through APIs",
+    "location": "📍San Francisco, CA",
+    "summary": "Cloud communication company",
+    "logo": "https://photos.angel.co/startups/i/32509-cfb45c2a611a38850d8ea263d89ab595-medium_jpg.jpg?buster=1589608612",
+    "socialLinks": [
+      "https://twilio.com",
+      "https://www.facebook.com/TeamTwilio",
+      "https://twitter.com/twilio",
+      "https://www.linkedin.com/company/twilio-inc-",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$614.4M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Visa",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Visa is a world leader in digital payments, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories.Visa's mission is to connect the world through the most innovative, convenient, reliable and secure payments network, enabling individuals, businesses and economies to thrive.",
+    "location": "👥10,000+",
+    "summary": "A Network Working for Everyone.",
+    "logo": "https://logo.clearbit.com/visa.com",
+    "socialLinks": [
+      "https://usa.visa.com/",
+      "https://www.facebook.com/VisaTW",
+      "https://twitter.com/Visa",
+      "https://www.linkedin.com/company/visa/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Fintech",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Twitch",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Twitch is a social video platform where gamers can broadcast, watch, and talk about video games. It brings the joy of co-op to everything gamers love, from anime marathons to esports competitions and more.Twitch is a one-of-a-kind collision of subcultures, games, communities, and streamers co-creating content around everything they’re into.",
+    "location": "👥5,001-10,000",
+    "summary": "Social video platform",
+    "logo": "https://logo.clearbit.com/twitch.tv",
+    "socialLinks": [
+      "https://twitch.tv",
+      "https://www.facebook.com/TwitchTW/",
+      "https://twitter.com/twitch",
+      "https://www.linkedin.com/company/twitch-tv",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$35M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Gaming",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Twitter",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Twitter is a social networking platform that allows its users to send and read micro-blogs of up to 280-characters known as tweets.serves the public conversation in ways people feel across the world, every day",
+    "location": "📍San Francisco, California, United States",
+    "summary": "microblogging and social networking service",
+    "logo": "https://logo.clearbit.com/twitter.com",
+    "socialLinks": [
+      "https://twitter.com",
+      "https://www.facebook.com/TwitterInc/",
+      "https://twitter.com/twitter",
+      "https://www.linkedin.com/company/twitter/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.5B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Thoughtworks",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Thoughtworks is a community of passionate individuals whose purpose is to revolutionize software design, creation, and delivery.a global technology consultancy that integrates strategy, design and engineering and the US Coalition on Sustainability",
+    "location": "📍Chicago, Illinois, United States",
+    "summary": "agile software development",
+    "logo": "https://photos.angel.co/startups/i/47128-7babe77313f5844ea86af6d1487ef435-medium_jpg.jpg?buster=1589647413",
+    "socialLinks": [
+      "https://thoughtworks.com",
+      "https://www.facebook.com/Thoughtworks",
+      "https://twitter.com/thoughtworks",
+      "https://www.linkedin.com/company/thoughtworks/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$748M",
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Sketch",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Sketch is the definitive tool for digital design, empowering designers to share and collaborate on their designs.providing tools for a collaborative design process",
+    "location": "📍The Hague, Zuid-Holland, The Netherlands",
+    "summary": "fully-featured design platform",
+    "logo": "https://photos.angel.co/startups/i/6844832-8e521c443d5abc1c884d1d746768c228-medium_jpg.jpg?buster=1583874985",
+    "socialLinks": [
+      "https://sketch.com",
+      "https://www.facebook.com/sketchapp/",
+      "https://twitter.com/sketch",
+      "https://www.linkedin.com/company/sketchbv/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$20M",
+      "Last funding round type": "Series A",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥51-200",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "postman",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Postman is the collaboration platform for API development.operates a collaborative platform for developers to help them build, design, test and iterate their APIs",
+    "location": "📍San Francisco, California, United States",
+    "summary": "collaboration platform for API development",
+    "logo": "https://logo.clearbit.com/postman.com",
+    "socialLinks": [
+      "https://postman.com",
+      "https://www.facebook.com/getpostman/",
+      "https://twitter.com/getpostman",
+      "https://www.linkedin.com/company/postman-platform",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$433M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "auth0",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Auth0 is an authentication and authorization platform designed by developers, for developers. Basically, we make companies’ login boxes safe, secure, and seamless for anyone logging in.Auth0 is an identity management platform for web, mobile, IoT, and internal applications.",
+    "location": "📍Bellevue, Washington, United States",
+    "summary": "Identity management platform for application builders",
+    "logo": "https://logo.clearbit.com/auth0.com",
+    "socialLinks": [
+      "https://auth0.com",
+      "https://www.facebook.com/getauth0",
+      "https://twitter.com/auth0",
+      "https://www.linkedin.com/company/auth0/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$332.3M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "SAP",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "SAP is a technology company that develops enterprise application software for companies and industries across diverse sectors.The company offers solutions covering various lines of businesses, including asset management, commerce, finance, human resources, manufacturing, marketing, sales, services, sourcing and procurement, supply chain, andsustainability as well as research and development, and engineering.",
+    "location": "📍Walldorf, Germany",
+    "summary": "SAP is a technology company .",
+    "logo": "https://logo.clearbit.com/sap.com",
+    "socialLinks": [
+      "https://sap.com",
+      "http://www.facebook.com/SAP",
+      "http://twitter.com/SAP",
+      "https://www.linkedin.com/company/sap",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.3B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "InVision",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "InVision is the leading product design and development platform for teams building world-class digital products.InVision provides a design collaboration platform for startups, corporations, and design agencies.",
+    "location": "📍New York, New York, United States",
+    "summary": "Digital product design platform",
+    "logo": "https://photos.angel.co/startups/i/21569-c86e305ed0dda7ef283d565cce8195fe-medium_jpg.jpg?buster=1589598114",
+    "socialLinks": [
+      "https://www.invisionapp.com/",
+      "https://www.facebook.com/invisionapp",
+      "https://twitter.com/InVisionApp",
+      "https://www.linkedin.com/company/invisionapp/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$356.2M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Spotify",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Spotify is a commercial music streaming service that provides restricted digital content from a range of record labels and artists.gives access to music and podcasts",
+    "location": "📍Stockholm, Stockholms Lan, Sweden",
+    "summary": "audio streaming and media services provider",
+    "logo": "https://logo.clearbit.com/spotify.com",
+    "socialLinks": [
+      "https://spotify.com",
+      "https://www.facebook.com/Spotify",
+      "https://twitter.com/spotify",
+      "https://www.linkedin.com/company/spotify/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$2.1B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Lyft",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.matching drivers and riders via a smartphone application",
+    "location": "📍San Francisco, California, United States",
+    "summary": "ridesharing company",
+    "logo": "https://photos.angel.co/startups/i/6974318-ebfdbdd6d9eb80f4c7f0bf51c39b8ceb-medium_jpg.jpg?buster=1589638588",
+    "socialLinks": [
+      "https://www.lyft.com/",
+      "https://www.facebook.com/lyft",
+      "https://twitter.com/lyft",
+      "https://www.linkedin.com/company/lyft/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$4.9B",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "LambdaSchool",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Lambda School trains people to be software engineers for free in exchange for a share of future income.Lambda School's education model is centered around competence and teaching students how to learn. Additionally, students learn using an I do, we do, you do​ model, allowing them to build up subject mastery before they move onto the next topic.",
+    "location": "📍San Francisco, CA",
+    "summary": "Live, online classes",
+    "logo": "https://photos.angel.co/startups/i/4379041-2a3f04e7face7135b20bd366b70f396e-medium_jpg.jpg?buster=1589575461",
+    "socialLinks": [
+      "https://lambdaschool.com",
+      "https://www.facebook.com/lambdaschoolonline/",
+      "https://twitter.com/lambdaschool",
+      "https://www.linkedin.com/school/lambdaschool/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$122.1M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Microsoft",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.American multinational technology corporation which produces computer software, consumer electronics, personal computers",
+    "location": "👥10,000+",
+    "summary": "Business Software provider",
+    "logo": "https://logo.clearbit.com/microsoft.com",
+    "socialLinks": [
+      "https://microsoft.com",
+      "https://www.facebook.com/Microsoft/",
+      "https://twitter.com/Microsoft",
+      "https://www.linkedin.com/company/microsoft/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$18B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼SaaS",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Neo4j",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Neo4j is the leader in graph technology. We help global brands to reveal and predict how people, processes & systems are interrelated.help organizations – including Comcast, ICIJ, NASA, UBS, and Volvo Cars – capture the rich context of the real world that exists in their data to solve challenges of any size and scale",
+    "location": "📍San Mateo, California, United States",
+    "summary": "graph data platform",
+    "logo": "https://logo.clearbit.com/neo4j.com",
+    "socialLinks": [
+      "http://www.neo4j.com",
+      "https://www.facebook.com/neo4j.graph.database/",
+      "https://twitter.com/neo4j",
+      "https://www.linkedin.com/company/neo4j/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$582.1M",
+      "Last funding round type": "Series F",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Upwork",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Upwork is an online work marketplace that connects millions of businesses with independent talents around the globe.We serve everyone from one-person startups to 30% of the Fortune 100 with a powerful, trust-driven platform that enables companies and freelancers to work together in new ways that unlock their potential.",
+    "location": "👥501-1,000",
+    "summary": "Find the best people for your job",
+    "logo": "https://logo.clearbit.com/upwork.com",
+    "socialLinks": [
+      "https://upwork.com",
+      "https://www.facebook.com/upwork",
+      "https://twitter.com/Upwork",
+      "https://www.linkedin.com/company/upwork/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$168.8M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Recruiting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Dropbox",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Dropbox is the one place to keep life organized and keep work moving.With more than 700 million registered users across 180 countries, we're on a mission to design a more enlightened way of working.",
+    "location": "📍San Francisco, California",
+    "summary": "Dropbox is the one place to keep life organized",
+    "logo": "https://logo.clearbit.com/dropbox.com",
+    "socialLinks": [
+      "https://dropbox.com",
+      "https://www.facebook.com/Dropbox/",
+      "https://twitter.com/Dropbox",
+      "https://www.linkedin.com/company/dropbox",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": { "frontend": [], "backend": [] },
+    "fundingDetails": {
+      "Total Funding": "$1.7B",
+      "Last funding round type": "Debt Financing",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "The Washington Post",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Washington Post is an American newspaper and website that features news insights on various topics.The Washington Post is an award-winning news leader whose mission is to connect, inform, and enlighten local, national and global readers with trustworthy reporting, in-depth analysis and engaging opinions.",
+    "location": "📍Washington, DC",
+    "summary": "Is an American newspaper and website",
+    "logo": "https://logo.clearbit.com/washingtonpost.com",
+    "socialLinks": [
+      "https://washingtonpost.com",
+      "https://facebook.com/washingtonpost",
+      "https://twitter.com/daggerhartlab",
+      "https://www.linkedin.com/company/the-washington-post/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Zynga",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Zynga pioneered social games with the belief that if we could make games simple, accessible and social the world would start playing.Social games that are simple, accessible and social",
+    "location": "👥1,001-5,000",
+    "summary": "Develop computer social games",
+    "logo": "https://logo.clearbit.com/zynga.com",
+    "socialLinks": [
+      "https://zynga.com",
+      "https://www.facebook.com/Zynga/",
+      "https://twitter.com/zynga",
+      "https://tw.linkedin.com/company/zynga",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$2.3B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Gaming",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Zapier",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Zapier allows its users to easily connect and automate the apps they use.With Zapier, you can integrate apps like Salesforce, Intuit, Google, and Dropbox, to move data between them automatically, so you can focus on your most important work.",
+    "location": "📍San Francisco, CA",
+    "summary": "Get your software working together, automatically.",
+    "logo": "https://logo.clearbit.com/zapier.com",
+    "socialLinks": [
+      "https://zapier.com",
+      "http://www.facebook.com/ZapierApp?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier",
+      "https://twitter.com/?utm_source=zapier.com&amp;utm_medium=referral&amp;utm_campaign=zapier#!/zapier",
+      "https://www.linkedin.com/company/zapier/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.4M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "PayPal",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "PayPal is championing possibilities for all by making money fast, easy, and more enjoyable. Our hope is unlock opportunities for people in their everyday lives and empower the millions of people and businesses around the world who trust, rely, and use PayPal every day.An app development company which builds bitcoin app, smart contracts, and digital assets.",
+    "location": "👥10,000+",
+    "summary": "Enable businesses to achieve their desired business goals",
+    "logo": "https://logo.clearbit.com/paypal.com",
+    "socialLinks": [
+      "https://paypal.com",
+      "https://www.facebook.com/PayPal/",
+      "https://twitter.com/PayPal?",
+      "https://www.linkedin.com/company/paypal/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Fintech",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Evernote",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Evernote is a suite of software and services that allow users to capture, organize, and find information across multiple platforms.All your notes are automatically synchronized to all devices, and important information is always with you.",
+    "location": "👥201-500",
+    "summary": "Organize your work, organize your life",
+    "logo": "https://logo.clearbit.com/evernote.com",
+    "socialLinks": [
+      "https://evernote.com",
+      "https://www.facebook.com/evernote",
+      "https://twitter.com/evernote",
+      "https://www.linkedin.com/company/evernote/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": { "frontend": [], "backend": [] },
+    "fundingDetails": {
+      "Total Funding": "$290M",
+      "Last funding round type": "Series E",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼SaaS",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Revalize",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "AQ is the FES industry's most widely-used and trusted software in the FES industry, period.A provider of Quote to Cash technology solutions that enable sales of B2B finished products.",
+    "location": "👥51-200",
+    "summary": "Technology Solutions for the Foodservice Industry",
+    "logo": "https://c.smartrecruiters.com/sr-company-logo-prod-dc5/6064c2b17cb08244b26c217e/150px?r=s3-eu-central-1",
+    "socialLinks": [
+      "https://aq-fes.com/",
+      "https://www.facebook.com/AutoQuotesLLC/",
+      "https://twitter.com/autoquotesllc",
+      "https://www.linkedin.com/company/autoquotes",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "General Electric",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "For more than 125 years, GE has invented the future of industry, and today the company’s dedicated team, leading technology, and global reach and capabilities help the world work more efficiently, reliably, and safely.As of 2016, GE operates through the following segments: Aviation, Research, Healthcare, Lighting, Power, Renewable Energy, and Capital which cater to the needs of Financial services, Medical devices, Life Sciences, Pharmaceutical, and Engineering industries.",
+    "location": "👥10,000+",
+    "summary": "Building A World That Works.",
+    "logo": "https://logo.clearbit.com/ge.com",
+    "socialLinks": [
+      "https://www.ge.com/",
+      "https://www.facebook.com/GE/",
+      "https://twitter.com/generalelectric",
+      "https://www.linkedin.com/company/ge/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$19.8M",
+      "Last funding round type": "Grant",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Software Mind",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Software & Applications development to support and extend IT teams, and deliver business results.providing companies with fully autonomous development teams who manage software life cycles from ideation to release and beyond",
+    "location": "👥501-1,000",
+    "summary": "global IT service and software company",
+    "logo": "https://logo.clearbit.com/softwaremind.com",
+    "socialLinks": [
+      "https://softwaremind.com/",
+      "https://www.facebook.com/softwaremind/",
+      "https://twitter.com/SoftwareMind",
+      "https://www.linkedin.com/company/software-mind/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$€25M",
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼SaaS",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Genesys",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Genesys provides omnichannel customer experience (CX) and contact center solutions in the cloud and on-premises.Orchestrating over 70 billion amazing experiences in more than 100 countries – through cloud, digital and AI technology",
+    "location": "📍Daly City, California, United States",
+    "summary": "cloud and self-built customer engagement solutions",
+    "logo": "https://logo.clearbit.com/genesys.com",
+    "socialLinks": [
+      "https://genesys.com",
+      "https://www.facebook.com/Genesys/",
+      "https://twitter.com/Genesys",
+      "https://www.linkedin.com/company/genesys/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.5B",
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Nagarro",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Nagarro (Frankfurt: NA9) is a leader in digital product engineering & drives technology-led business breakthroughs.one of the most efficient and innovative SAP partners for German medium-sized companies and large customers with an international character",
+    "location": "👥10,000+",
+    "summary": "German IT full-service provider",
+    "logo": "https://logo.clearbit.com/nagarro.com",
+    "socialLinks": [
+      "https://nagarro.com",
+      "https://twitter.com/nagarro",
+      "https://www.linkedin.com/company/nagarro/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Consulting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Motorola Solutions",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Motorola Solutions is a global leader in public safety and enterprise security.Motorola's solutions in land mobile radio communications, video security & access control and command center software, bolstered by managed & support services, create the most integrated technology ecosystem to make communities safer and help businesses stay productive and secure.",
+    "location": "📍Chicago, Illinois, United States",
+    "summary": "Making communities safer & businesses stay productive.",
+    "logo": "https://logo.clearbit.com/motorolasolutions.com",
+    "socialLinks": [
+      "https://motorolasolutions.com",
+      "https://www.facebook.com/MotorolaSolutionsAP/",
+      "https://twitter.com/MotoSolutionsAP",
+      "https://www.linkedin.com/company/motorolasolutions/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1B",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥10,000+",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Turing.com",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Turing is an information technology company that enables start-ups, businesses, and organizations to hire software engineers.allows U.S. and Silicon Valley companies to hire senior pre-vetted remote developers who have robust technical & communication skills",
+    "location": "📍Palo Alto, California, United States",
+    "summary": "data-science-driven deep jobs platform",
+    "logo": "https://logo.clearbit.com/turing.com",
+    "socialLinks": [
+      "https://turing.com",
+      "https://www.facebook.com/turingcom",
+      "https://twitter.com/turingcom",
+      "https://www.linkedin.com/company/turingcom/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$140.6M",
+      "Last funding round type": "Convertible Note",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Gusto",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Gusto develops web-based payroll solution for small- and medium-sized businesses. It operates an online platform that provides payroll, benefits, human resources, and integration services for employers and employees in the United States.Gusto provides a cloud-based payroll, benefits, and human resource management solution for businesses.",
+    "location": "👥1,001-5,000",
+    "summary": "web-based payroll solution",
+    "logo": "https://logo.clearbit.com/gusto.com",
+    "socialLinks": [
+      "https://gusto.com",
+      "https://www.facebook.com/GustoHQ",
+      "https://twitter.com/gustohq",
+      "https://www.linkedin.com/company/gustohq/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$691.1M",
+      "Last funding round type": "Series E",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Databricks",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Databricks is a data and AI company that interacts with corporate information stored in the public cloud.an industry-leading, cloud-based data engineering tool used for processing and transforming massive quantities of data and exploring the data through machine learning models",
+    "location": "📍San Francisco, California, United States",
+    "summary": "data and AI company",
+    "logo": "https://logo.clearbit.com/databricks.com",
+    "socialLinks": [
+      "https://databricks.com",
+      "https://www.facebook.com/databricksinc/",
+      "https://twitter.com/databricks",
+      "https://www.linkedin.com/company/databricks/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$3.5B",
+      "Last funding round type": "Series H",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Braintrust",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Braintrust is a blockchain-powered freelancer marketplace that connects skilled tech experts with clients.Braintrust enables organizations to pull together flexible teams of highly-skilled technical and design talent, no matter where they’re located.",
+    "location": "📍San Francisco, California",
+    "summary": "Blockchain-powered freelancer marketplace",
+    "logo": "https://logo.clearbit.com/usebraintrust.com",
+    "socialLinks": [
+      "https://usebraintrust.com",
+      "https://twitter.com/usebraintrust",
+      "https://www.linkedin.com/company/usebraintrust/about/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$23.5M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "Non-Profit"
+    },
+    "companySize": "👥51-200",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "ICF",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "ICF is a global consulting and technology services provider with more than 7,000 professionals focused on making big things possible for our clients.ICF is a global consulting and technology services provider focused on making big things possible for our clients.",
+    "location": "📍Fairfax, VA",
+    "summary": "global consulting and technology services provider",
+    "logo": "https://logo.clearbit.com/icf.com",
+    "socialLinks": [
+      "https://icf.com",
+      "https://www.facebook.com/ThisIsICF/",
+      "https://twitter.com/ICF",
+      "https://www.linkedin.com/company/icf-international/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$30M",
+      "Last funding round type": "Grant",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥5,001-10,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "DXC Technology",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "DXC Technology is a end-to-end IT services company, helping clients harness the power of innovation to thrive on change.DXC Technology is a Fortune 500 global IT services leader. Our more than 130,000 people in 70-plus countries are entrusted by our customers to deliver what matters most. We use the power of technology to deliver mission critical IT services across the Enterprise Technology Stack to drive business impact.",
+    "location": "👥10,000+",
+    "summary": "Delivering excellence for our customers and colleagues",
+    "logo": "https://logo.clearbit.com/dxc.com",
+    "socialLinks": [
+      "https://dxc.com",
+      "https://www.linkedin.com/company/dxctechnology/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Security, Consulting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "DMI",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Digital Management provides mobile solutions and services that include enterprise mobility and cyber security.bring together an integrated set of industry and technology services and solutions that combine both public and private sector expertise to deliver human-centric innovation at scale",
+    "location": "👥1,001-5,000",
+    "summary": "digital strategy, design, transformation provider",
+    "logo": "https://logo.clearbit.com/dminc.com",
+    "socialLinks": [
+      "https://dminc.com",
+      "https://www.facebook.com/DMI2002/",
+      "https://twitter.com/DMI2002",
+      "https://www.linkedin.com/company/dmi-digital-management-inc-/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$8.4M",
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "abnormal security",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Abnormal Security is an email security company that protects enterprises and organizations from targeted email attacks.provider of a leading cloud-native email security platform",
+    "location": "👥201-500",
+    "summary": "cloud-native email security platform",
+    "logo": "https://photos.angel.co/startups/i/5748162-596e2f860d88db2ff562d62fb0ab1a16-medium_jpg.jpg?buster=1526518853",
+    "socialLinks": [
+      "https://abnormalsecurity.com",
+      "https://www.facebook.com/Abnormal-Security-114676830085640/",
+      "https://twitter.com/abnormalsec",
+      "https://www.linkedin.com/company/abnormalsecurity",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$74M",
+      "Last funding round type": "Series B",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Airbnb",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Airbnb is a global community of Hosts and travelers—a community that was born in 2007 when two Hosts welcomed three guests to their San Francisco home, and has since grown to 4 million Hosts who have welcomed more than 1 billion guest arrivals to about 100,000 cities in almost every country and region across the globe.Airbnb is a mission-driven company dedicated to helping create a world where anyone can belong anywhere.",
+    "location": "👥5,001-10,000",
+    "summary": "A community based on connection and belonging.",
+    "logo": "https://logo.clearbit.com/airbnb.com",
+    "socialLinks": [
+      "https://airbnb.com",
+      "https://www.facebook.com/AirbnbTaiwan",
+      "https://twitter.com/Airbnb",
+      "https://www.linkedin.com/company/airbnb/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$6.4B",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Travel",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "System Soft Technologies",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Deep Expertise to Help Clients Solve Their Most Difficult IT Challengesproviding everything from project support to complete IT consulting to future-proof your infrastructure",
+    "location": "📍FL Tampa",
+    "summary": "IT service management company",
+    "logo": "https://logo.clearbit.com/sstech.us",
+    "socialLinks": [
+      "https://sstech.us",
+      "https://www.facebook.com/SystemSoftTechnologies/",
+      "https://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=SystemSoft_Tech",
+      "https://www.linkedin.com/company/systemsofttech/about/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Hitachi Solutions",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Hitachi Solutions Canada is a consulting firm and systems integrator helping customers from strategy to solution.helping our clients compete with the largest global enterprises by using powerful, easy to use and affordable industry solutions",
+    "location": "📍Calgary, Alberta, Canada",
+    "summary": "business application consulting firm",
+    "logo": "https://c.smartrecruiters.com/sr-company-logo-prod/58863f31e4b07421c60888a4/150px?r=s3",
+    "socialLinks": [
+      "https://global.hitachi-solutions.com/careers?utm_source=LinkedIn-HSA&utm_medium=social&utm_campaign=CRR-2021-Careers-Page&utm_content=LinkedIn-HSA-Account-Button",
+      "https://www.facebook.com/HitachiSolUs/",
+      "https://twitter.com/hitachisolus",
+      "https://www.linkedin.com/company/hitachi-solutions-america/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Vervent",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "We deliver best-in-class financial service solutions with unmatched precision to drive your business forward, faster.Our industry leading clients, ranging from Fintechs to the Auto industry and beyond, can focus on growing their business because our team expertly handles their financial servicing needs.",
+    "location": "👥501-1,000",
+    "summary": "Financial service solutions",
+    "logo": "https://logo.clearbit.com/vervent.com",
+    "socialLinks": [
+      "https://vervent.com",
+      "https://www.facebook.com/Vervent/",
+      "https://twitter.com/verventSD",
+      "https://www.linkedin.com/company/verventsd/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Deel",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Deel is the all-in-one platform made to simplify all things HR, built for global teams near and far.It helps companies simplify every aspect of managing an international workforce, from culture and onboarding, to local payroll and compliance.",
+    "location": "📍San Francisco, California",
+    "summary": "all-in-one HR platform for global teams",
+    "logo": "https://logo.clearbit.com/deel.com",
+    "socialLinks": [
+      "https://deel.com",
+      "https://www.facebook.com/GetDeel",
+      "https://twitter.com/deel",
+      "https://www.linkedin.com/company/deel/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$679M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "LTK USA",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "LTK is a global creator commerce platform that empowers thousands of digital lifestyle influencers to achieve economic success.LTK is the only place where brands can leverage historical, cross-channel retail performance data to cast, price and execute creator campaigns.",
+    "location": "📍Dallas, TX",
+    "summary": "We Power Creator Commerce",
+    "logo": "https://logo.clearbit.com/shopltk.com",
+    "socialLinks": [
+      "https://company.shopltk.com",
+      "https://www.facebook.com/LIKEtoKNOWit-1543485825863332/",
+      "https://www.linkedin.com/company/shopltk/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$315M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "SailPoint",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "SailPoint is an identity and access management provider that helps organizations deliver and manage user access from any device.automates the management and control of access, delivering only the required access to the right identities and technology resources at the right time",
+    "location": "📍Austin, Texas, United States",
+    "summary": "identity security for the cloud enterprise",
+    "logo": "https://logo.clearbit.com/sailpoint.com",
+    "socialLinks": [
+      "https://sailpoint.com",
+      "https://www.facebook.com/SailPoint/photos/a.10150775175990740/10156034369825740",
+      "https://twitter.com/SailPoint",
+      "https://www.linkedin.com/company/sailpoint-technologies/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$26.1M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "draftkings",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "DraftKings is an American daily fantasy sports contest and sports betting operator.DraftKings provides online daily and weekly fantasy sports contests for cash prizes in major sports.",
+    "location": "📍Boston, Massachusetts, United States",
+    "summary": "Digital sports entertainment and gaming company",
+    "logo": "https://photos.angel.co/startups/i/31888-825265e74f51efb18569e0ab8e37b728-medium_jpg.jpg?buster=1589622774",
+    "socialLinks": [
+      "https://draftkings.com",
+      "https://www.facebook.com/draftkings/",
+      "https://twitter.com/DraftKings",
+      "https://www.linkedin.com/company/draftkings-inc-/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$719.4M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Grafana Labs",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Grafana Labs is the company behind Grafana, Loki and Tempo, the leading open source software for visualizing operational data.Grafana Labs helps users get the most out of Grafana, enabling them to take control of their unified monitoring and avoid vendor lock in and the spiraling costs of closed solutions.",
+    "location": "📍New York, New York, United States",
+    "summary": "Analytics platform for all your metrics.",
+    "logo": "https://logo.clearbit.com/grafana.com",
+    "socialLinks": [
+      "https://grafana.com",
+      "https://www.facebook.com/grafana/",
+      "https://twitter.com/grafana",
+      "https://www.linkedin.com/company/grafana-labs/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$295.2M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Binance",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Binance is a cryptocurrency exchange platform that combines digital technology and finance.the world’s leading blockchain and cryptocurrency infrastructure provider with a financial product suite that includes the largest digital asset exchange by volume",
+    "location": "📍Valletta, NA - Malta, Malta",
+    "summary": "Blockchain Ecosystem and Digital Asset Exchange",
+    "logo": "https://logo.clearbit.com/binance.com",
+    "socialLinks": [
+      "http://www.binance.com",
+      "https://www.facebook.com/BinanceExchange/",
+      "https://twitter.com/binance",
+      "https://www.linkedin.com/company/binance/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$35M",
+      "Last funding round type": "Initial Coin Offering",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Varsity Tutors",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Varsity Tutors is a live learning platform that connects students and professionals with personalized instruction to achieve any goal.offers private and group tutoring, classes, test prep, and virtual learning for all students and professionals",
+    "location": "👥201-500",
+    "summary": "platforms for live online tutoring and classes,",
+    "logo": "https://logo.clearbit.com/varsitytutors.com",
+    "socialLinks": [
+      "https://varsitytutors.com",
+      "https://www.facebook.com/varsitytutors/",
+      "https://twitter.com/varsitytutors",
+      "https://www.linkedin.com/company/varsity-tutors/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$107M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Education",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Mindbody",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Mindbody is a wellness experience platform that allows users to find and engage with fitness, beauty, and integrative health services.featuring an app that allows users to discover and book fitness, beauty and integrative health services, and industry-leading software for business growth and management.",
+    "location": "📍San Luis Obispo, CA",
+    "summary": "Mindbody is a wellness experience platform",
+    "logo": "https://logo.clearbit.com/mindbodyonline.com",
+    "socialLinks": [
+      "https://mindbodyonline.com",
+      "https://www.facebook.com/mindbodyinc",
+      "https://twitter.com/askmindbody",
+      "https://www.linkedin.com/company/mindbody",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$614.5M",
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "E. Breuninger GmbH & Co.",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Change is a tradition at Breuninger - they have been shaping the future of retail for more than 140 years, think far beyond their own horizons and are always one step ahead when it comes to innovation, sustainability and fashion.Breuninger is your multi-channel department store, which combines the advantages of the online world with the long-standing tradition and experience of brick-and-mortar retail.",
+    "location": "👥5,001-10,000",
+    "summary": "Clothing Store",
+    "logo": "https://cdn.arc.dev/images/companies/empty-company-logo.svg",
+    "socialLinks": [
+      "http://www.breuninger.com",
+      "https://www.facebook.com/breuninger.de/",
+      "https://www.linkedin.com/company/breuninger/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Fashion",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Flock Safety",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Flock Safety is a crime-fighting technology company that offers security systems to capture images while the proprietary machine-learning algorithm identifies a vehicle fingerprint.Flock Safety is a developer of public safety operating system that helps communities and law enforcement in 1200 cities to eliminate crime.",
+    "location": "📍Atlanta, Georgia",
+    "summary": "developer of public safety",
+    "logo": "https://logo.clearbit.com/flocksafety.com",
+    "socialLinks": [
+      "https://flocksafety.com",
+      "https://www.facebook.com/flocksafety",
+      "https://twitter.com/Flock_Safety",
+      "https://www.linkedin.com/company/flock-safety/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$230.6M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "SeatGeek",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "SeatGeek operates a mobile-focused ticket platform and search engine that lets fans buy and sell tickets for events.SeatGeek was built in 2009 as the only mobile ticketing marketplace created with fan experience top of mind. We’re transforming the way fans buy and sell their tickets to their favorite live events across sports, music, and theater.",
+    "location": "📍New York, NY",
+    "summary": "Help the world experience more live.",
+    "logo": "https://logo.clearbit.com/seatgeek.com",
+    "socialLinks": [
+      "https://seatgeek.com/",
+      "https://www.facebook.com/SeatGeek",
+      "https://twitter.com/seatgeek",
+      "https://www.linkedin.com/company/seatgeek/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$162.1M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Shield AI",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Shield AI leverages decades worth of research and industry-leading talent to develop cutting-edge artificial intelligence software and systems.Shield AI builds self-driving technology that enables swarms of unmanned systems to operate on the edge without GPS, communications, or remote pilots.",
+    "location": "📍San Diego, California, United States",
+    "summary": "Building the world's best AI pilots.",
+    "logo": "https://photos.angel.co/startups/i/32067-6b963ba06095df8d0db297a3ed875e02-medium_jpg.jpg?buster=1525987413",
+    "socialLinks": [
+      "https://shield.ai/",
+      "https://www.facebook.com/shieldai/",
+      "https://twitter.com/shieldaitech",
+      "https://www.linkedin.com/company/shield-ai/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$348.1M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "AUTO1 Group",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "AUTO1 Group is an online automotive platform that aims to connect buyers and sellers of cars throughout Europe.offer a quick and easy way for consumers and professional car dealers across Continental Europe to sell and buy used cars at haggle-free prices through our established platforms",
+    "location": "📍Berlin, Berlin, Germany",
+    "summary": "digital automotive platform",
+    "logo": "https://logo.clearbit.com/auto1-group.com",
+    "socialLinks": [
+      "http://www.auto1-group.com",
+      "https://www.facebook.com/insideAUTO1Group/",
+      "https://twitter.com/auto1_group",
+      "https://www.linkedin.com/company/auto1-group/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1.4B",
+      "Last funding round type": "1.4B",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "spatial front",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "SFI effectively delivers the right Information Technology solutions and Business Support services.SFI effectively delivers the right Information Technology solutions and Business Support services using thoughtful analysis, strategic planning and precise execution.",
+    "location": "📍Mc Lean, Virginia, United States",
+    "summary": "IT solutions& Business Support services",
+    "logo": "https://cdn.arc.dev/images/companies/empty-company-logo.svg",
+    "socialLinks": [
+      "https://spatialfront.com",
+      "https://www.facebook.com/SpatialFront",
+      "https://twitter.com/Spatial_Front",
+      "https://www.linkedin.com/company/spatial-front/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥51-200",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Jerry",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Jerry is an AI, ML, and bot-powered car ownership app that saves customers time and money on car expenses.provides the fatest way to compare and buy car insurance",
+    "location": "📍Palo Alto, California, United States",
+    "summary": "car ownership super app",
+    "logo": "https://logo.clearbit.com/getjerry.com",
+    "socialLinks": [
+      "https://getjerry.com",
+      "https://www.facebook.com/thejerryapp",
+      "https://twitter.com/thejerryapp",
+      "https://www.linkedin.com/company/jerryinc/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$132M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Whatnot",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Whatnot is a live stream platform and marketplace that enables collectors and enthusiasts to connect, buy, and sell verified products.providing a platform that customers can safely buy, sell, go live and geek out with collectors and other like-minded people",
+    "location": "📍Marina Del Rey, California, United States",
+    "summary": "community marketplace",
+    "logo": "https://logo.clearbit.com/whatnot.com",
+    "socialLinks": [
+      "https://whatnot.com",
+      "https://www.facebook.com/RealWhatnot/",
+      "https://twitter.com/whatnot/",
+      "https://www.linkedin.com/company/whatnot-inc/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$224.7M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥11-50",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Bill.com",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Bill.com is a provider of cloud-based software that simplifies and automates back-office financial operations.The company’s platform is enabled by artificial intelligence and creates connections between businesses and their suppliers and clients, in order to help businesses manage their cashinflows and outflows.",
+    "location": "👥501-1,000",
+    "summary": "Making it simple to connect and do business",
+    "logo": "https://logo.clearbit.com/bill.com",
+    "socialLinks": [
+      "https://www.bill.com",
+      "https://www.facebook.com/billcom",
+      "https://twitter.com/billcom",
+      "https://www.linkedin.com/company/bill-com?original_referer=",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$279.7M",
+      "Last funding round type": "Series H",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Cloud Computing",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Insight Global",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Insight Global provides long-term, short-term, temporary-to-permanent, placement staffing, and enhanced staffing services.forms genuine relationships with our consultants and clients, building a deep understanding of their needs so that we can find the best match",
+    "location": "👥1,001-5,000",
+    "summary": "staffing company",
+    "logo": "https://logo.clearbit.com/insightglobal.com",
+    "socialLinks": [
+      "https://insightglobal.com",
+      "https://www.facebook.com/InsightGlobalLLC/?ref=aymt_homepage_panel",
+      "https://twitter.com/insightglobal",
+      "https://www.linkedin.com/company/insight-global/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Recruiting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "NerdWallet",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "NerdWallet develops a financial platform to help people find the right credit cards and mortgage rates.At NerdWallet, we’re on a mission to provide clarity for all of life’s financial decisions. Every day, we help people find the right credit cards and mortgage rates, refinance their student loans, track their spending and so much more. We're proud to say that millions of people turn to Nerds for our objective advice, expert info, and helpful tools.",
+    "location": "👥501-1,000",
+    "summary": "Make smart decisions with side-by-side comparisons",
+    "logo": "https://logo.clearbit.com/nerdwallet.com",
+    "socialLinks": [
+      "https://nerdwallet.com",
+      "https://www.facebook.com/NerdWallet",
+      "https://twitter.com/NerdWallet",
+      "https://www.linkedin.com/company/nerdwallet/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$105M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "6sense",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "6sense is an account engagement platform that helps B2B organizations achieve predictable revenue growth.The 6sense Account Engagement Platform helps revenue teams identify and close more opportunities by putting the power of AI, big data and machine learning behind every member of the B2B revenue team.",
+    "location": "📍San Francisco, California",
+    "summary": "Account Engagement Platform",
+    "logo": "https://logo.clearbit.com/6sense.com",
+    "socialLinks": [
+      "https://6sense.com",
+      "https://www.facebook.com/6senseinc/",
+      "https://twitter.com/6senseInc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "https://www.linkedin.com/company/6sense/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$226M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Siemens",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Sessions provides one platform for your team to host and manage online meetings and webinars that impress.All-inclusive, immediately available, monthly car-subscriptions",
+    "location": "👥11-50",
+    "summary": "Helping transform ideas into quality mobile products",
+    "logo": "https://logo.clearbit.com/siemens.com",
+    "socialLinks": [
+      "https://siemens.com",
+      "https://www.linkedin.com/company/get-sessions",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$215M",
+      "Last funding round type": "Venture - Series Unknown",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼SaaS",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Brillio",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Brillio is a global technology consulting and technology services company focused on the implementation of digital technologiesAt Brillio, our customers are at the heart of everything we do. We were founded on the philosophy that to be great at something, you need to be unreasonably focused. That’s why we are relentless about delivering the technology-enabled solutions our customers need to thrive in today’s digital economy. Simply put, we help our customers accelerate what matters to their business by leveraging our expertise in agile engineering to bring human-centric products to market at warp speed.",
+    "location": "👥1,001-5,000",
+    "summary": "Turn Disruption into Advantage",
+    "logo": "https://logo.clearbit.com/brillio.com",
+    "socialLinks": [
+      "https://brillio.com",
+      "https://www.facebook.com/BrillioGlobalOfficial/",
+      "https://twitter.com/brillioglobal",
+      "https://www.linkedin.com/company/brillio/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Last funding round type": "Private Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼SaaS, Analytics",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Netskope",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Netskope is a security platform to protect data, stop threats, or any application.redefining cloud, data, and network security to help organizations apply Zero Trust principles to protect data",
+    "location": "👥1,001-5,000",
+    "summary": "cybersecurity leader",
+    "logo": "https://logo.clearbit.com/netskope.com",
+    "socialLinks": [
+      "https://netskope.com",
+      "https://www.facebook.com/netskope",
+      "https://twitter.com/netskope",
+      "https://www.linkedin.com/company/netskope/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$1B",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Deutsche Telekom IT Solutions",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "The largest ICT employer in Hungary, Deutsche Telekom IT Solutions (formerly IT-Services Hungary, ITSH) is a subsidiary of the Deutsche Telekom Group and Germany-based Deutsche Telekom IT.Deutsche Telekom IT Solutions HU provides various types of IT & Software related services to their clients.",
+    "location": "📍Budapest, Budapest",
+    "summary": "IT & Software related services",
+    "logo": "https://logo.clearbit.com/deutschetelekomitsolutions.hu",
+    "socialLinks": [
+      "https://www.deutschetelekomitsolutions.hu/",
+      "https://www.facebook.com/DeutscheTelekomITSolutionsHU",
+      "https://www.linkedin.com/company/deutsche-telekom-it-solutions-hu/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "CrowdStrike",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "CrowdStrike is a cybersecurity technology firm pioneering cloud delivered protection across endpoints, cloud workloads, identity and data.protects endpoints, cloud workloads, identity and data. We stop breaches",
+    "location": "👥1,001-5,000",
+    "summary": "global cybersecurity",
+    "logo": "https://logo.clearbit.com/crowdstrike.com",
+    "socialLinks": [
+      "https://crowdstrike.com",
+      "https://www.facebook.com/CrowdStrike",
+      "https://twitter.com/CrowdStrike",
+      "https://www.linkedin.com/company/crowdstrike/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$481M",
+      "Last funding round type": "Series E",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security, SaaS",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "V-Soft Consulting Group",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "VSoft Consulting Group, Inc. is a company that provides its clients with IT solutions such as app development as well as IT staffing.brings compelling value to their clients leveraging advanced and emerging tech to help clients lead their industry",
+    "location": "👥501-1,000",
+    "summary": "tech services company",
+    "logo": "https://logo.clearbit.com/vsoftconsulting.com",
+    "socialLinks": [
+      "https://vsoftconsulting.com",
+      "https://www.facebook.com/VSoftConsulting",
+      "https://twitter.com/VSoftConsulting",
+      "https://www.linkedin.com/company/vsoftconsulting/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Consulting",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "Panorama Education",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Panorama Education brings the power of data to education through a SaaS platform used by hundreds of school districts across the US.improve student outcomes by helping schools and districts act on data",
+    "location": "👥201-500",
+    "summary": "education service company",
+    "logo": "https://photos.angel.co/startups/i/256206-151aeec3c7bef89494f3dfbb14cf2cb7-medium_jpg.jpg?buster=1589647843",
+    "socialLinks": [
+      "https://panoramaed.com",
+      "http://www.facebook.com/PanoramaEd",
+      "http://twitter.com/PanoramaEd",
+      "https://www.linkedin.com/company/panorama-education",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$92.7M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Education",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Vertex",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Vertex is a tax technology company that offers tax software solutions to manage compliance.Vertex, Inc., pioneers in tax automation helping companies around the globe to transact, comply and grow with confidence.",
+    "location": "📍King Of Prussia, Pennsylvania, United States",
+    "summary": "Deliver connected solutions to conquer tax complexity.",
+    "logo": "https://logo.clearbit.com/vertexinc.com",
+    "socialLinks": [
+      "https://vertexinc.com",
+      "https://www.facebook.com/vertexinc1/",
+      "https://twitter.com/vertexinc",
+      "https://www.linkedin.com/company/vertex-inc./",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Contentful",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Contentful, the content platform for digital-first business, helps 30% of the Fortune 500 and thousands of brands around the world create and manage digital experiences for their customers across any channel.Contentful offers a headless content management system that helps organizations deliver content across channels.",
+    "location": "📍Berlin",
+    "summary": "content platform for digital-first business",
+    "logo": "https://logo.clearbit.com/contentful.com",
+    "socialLinks": [
+      "https://www.contentful.com",
+      "https://facebook.com/contentful",
+      "https://twitter.com/contentful",
+      "https://www.linkedin.com/company/contentful/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$349.6M",
+      "Last funding round type": "Series F",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Oportun",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Oportun is a fintech company that provides financial services from personal loans to financial resources.provide inclusive and affordable financial services, Oportun helps its nearly 1.5 million hardworking members meet their daily borrowing",
+    "location": "👥1,001-5,000",
+    "summary": "digital banking platform",
+    "logo": "https://logo.clearbit.com/oportun.com",
+    "socialLinks": [
+      "https://oportun.com",
+      "https://www.facebook.com/oportun",
+      "https://twitter.com/Oportun/",
+      "https://www.linkedin.com/company/oportun/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$566.1M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Fintech",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Kraken",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Kraken is a cryptocurrency exchange that provides spot and futures trading between Bitcoin, Ethereum, and 40+ other digital assets.We put the power in your hands to buy, sell, and trade digital currency",
+    "location": "👥1,001-5,000",
+    "summary": "Is a cryptocurrency exchange",
+    "logo": "https://logo.clearbit.com/kraken.com",
+    "socialLinks": [
+      "https://kraken.com",
+      "https://www.facebook.com/KrakenFX/",
+      "https://twitter.com/krakenfx",
+      "https://www.linkedin.com/company/krakenfx/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$133.1M",
+      "Last funding round type": "Secondary Market",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Monzo",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Monzo is a digital-only bank platform and marketplace that allows customers to access a range of products and services.Monzo is a digital-only bank platform and marketplace that allows customers to access a range of products and services.",
+    "location": "👥1,001-5,000",
+    "summary": "Digital-only bank platform",
+    "logo": "https://photos.angel.co/startups/i/975823-9438464e7e345f2c7352b94b9a8dc3cf-medium_jpg.jpg?buster=1589580689",
+    "socialLinks": [
+      "https://monzo.com",
+      "https://www.facebook.com/monzobank",
+      "https://twitter.com/monzo",
+      "https://www.linkedin.com/company/monzo-bank/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$648.1M",
+      "Last funding round type": "Series G",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "axon",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Axon Enterprise, Inc. develops technology and weapons products for military, law enforcement and civilians.Axon provides electronic control devices to law enforcement and corrections agencies.",
+    "location": "📍Scottsdale, Arizona, United States",
+    "summary": "Protect Life. Obsolete the bullet.",
+    "logo": "https://logo.clearbit.com/axon.com",
+    "socialLinks": [
+      "https://axon.com",
+      "https://www.facebook.com/Axon.ProtectLife/",
+      "https://twitter.com/axon_us",
+      "https://www.linkedin.com/company/axon-protect-life/about/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$246M",
+      "Last funding round type": "Post-IPO Equity",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Nisum",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Nisum is a leading global digital commerce firm headquartered in California, with services spanning digital strategy and transformation, insights and analytics, blockchain, business agility, and custom software development.Nisum is a digital commerce company focused on strategic IT initiatives using integrated solutions that deliver real and measurable growth.",
+    "location": "📍Brea, California, United States",
+    "summary": "Global technology consulting firm.",
+    "logo": "https://logo.clearbit.com/nisum.com",
+    "socialLinks": [
+      "https://nisum.com",
+      "https://www.facebook.com/NisumTech/",
+      "https://twitter.com/nisumtech",
+      "https://www.linkedin.com/company/nisum-technologies/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Kin Insurance",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Kin is the home insurance company built for the future. By leveraging thousands of property data points, Kin customizes coverage and prices through a super simple user experience.Kin offers homeowners, landlord, condo, and mobile home insurance through the Kin Interinsurance Network",
+    "location": "👥201-500",
+    "summary": "Insurtech company",
+    "logo": "https://logo.clearbit.com/kin.com",
+    "socialLinks": [
+      "https://kin.com",
+      "https://www.facebook.com/kinsured",
+      "https://twitter.com/kinsured",
+      "https://www.linkedin.com/company/kin-insurance/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$156.2M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "PandaDoc",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "PandaDoc enables users to create, deliver, and manage their teams’ quotes, proposals, contracts, and other sales collateral.PandaDoc provides an all-in-one document workflow automation platform that helps fast scaling teams accelerate the ability to create, manage, and sign digital documents including proposals, quotes, contracts, and more.",
+    "location": "📍San Francisco, CA",
+    "summary": "Taking the work out of document workflow.",
+    "logo": "https://logo.clearbit.com/pandadoc.com",
+    "socialLinks": [
+      "http://www.pandadoc.com",
+      "https://www.facebook.com/PandaDoc/",
+      "https://twitter.com/pandadoc",
+      "https://www.linkedin.com/company/pandadoc/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$51.1M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥501-1,000",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Cribl",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Cribl is an observability pipeline company that provides administrators control over their data in motion.Cribl makes open observability a reality for today’s tech professionals. The Cribl product suite defies data gravity with radical levels of choice and control. Wherever the data comes from, wherever it needs to go, Cribl delivers the freedom and flexibility to make choices, not compromises.",
+    "location": "👥201-500",
+    "summary": "Radical Levels of Choice & Control",
+    "logo": "https://logo.clearbit.com/cribl.io",
+    "socialLinks": [
+      "https://cribl.io",
+      "https://www.facebook.com/Cribl-258234158133458",
+      "https://twitter.com/cribl_io",
+      "https://www.linkedin.com/company/cribl/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": { "frontend": [], "backend": [] },
+    "fundingDetails": {
+      "Total Funding": "$402.2M",
+      "Last funding round type": "Series D",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Consulting",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "pleo",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "Pleo is one of those products that is a no-brainer in removing one of the most painful processes in business: company spending.Pleo offers smart company cards that enable employees to buy the things they need for work, all while keeping a company's finance director in control of spending.",
+    "location": "👥201-500",
+    "summary": "Smart payment company",
+    "logo": "https://logo.clearbit.com/pleo.io",
+    "socialLinks": [
+      "https://pleo.io",
+      "https://www.facebook.com/pleo.io",
+      "https://twitter.com/pleo",
+      "https://www.linkedin.com/company/pleo-company/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$228.8M",
+      "Last funding round type": "Series C",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Finance",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "QAD, Inc.",
+    "work_description": "The team generally works at the office, but is provided with flexible work options (e.g. option to work remotely part-time).",
+    "description": "QAD is a provider of adaptive, cloud-based enterprise software and services for global manufacturing companies. QAD solutions help manufacturers stay efficient and withstand disruption.QAD offers cloud-based enterprise manufacturing and supply chain solutions.",
+    "location": "👥1,001-5,000",
+    "summary": "Next-Generation Manufacturing & Supply Chain Solutions",
+    "logo": "https://logo.clearbit.com/qad.com",
+    "socialLinks": [
+      "http://www.qad.com",
+      "https://www.facebook.com/QADerp",
+      "https://twitter.com/QAD_Community",
+      "https://www.linkedin.com/company/qad",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "💼Productivity Tools",
+    "locationtype": "Flexible on-site"
+  },
+  {
+    "companyName": "Yahoo",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Yahoo is a global media and tech company that connects people to their passions.We reach people around the world, bringing them closer to what they love—from finance and sports, to shopping, gaming and news—with the trusted products, content and tech that fuel their day.",
+    "location": "📍Sunnyvale, CA",
+    "summary": "American web services provider",
+    "logo": "https://logo.clearbit.com/yahooinc.com",
+    "socialLinks": [
+      "https://yahooinc.com",
+      "https://www.facebook.com/yahoo/",
+      "https://twitter.com/Yahoo",
+      "https://www.linkedin.com/company/yahoo/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "fundingDetails": {
+      "Total Funding": "$6.8M",
+      "Last funding round type": "Series B",
+      "Company type": "For Profit"
+    },
+    "companySize": "👥10,000+",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Sprinto",
+    "work_description": "There is no central office. All members of the team work remotely.",
+    "description": "Sprinto develops a compliance automation platform to make enterprise-grade security accessible.helps SaaS companies become info-sec compliant, unblock sales deals, and pass security reviews easily",
+    "location": "👥51-200",
+    "summary": "SOC 2 for fast growing SaaS companies",
+    "logo": "https://logo.clearbit.com/sprinto.com",
+    "socialLinks": [
+      "https://sprinto.com",
+      "https://twitter.com/sprintohq?lang=zh-Hant",
+      "https://www.linkedin.com/company/sprinto-com/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": { "frontend": [], "backend": [] },
+    "fundingDetails": {
+      "Total Funding": "$11.4M",
+      "Last funding round type": "Series A",
+      "Company type": "For Profit"
+    },
+    "companySize": "💼Security",
+    "locationtype": "Fully distributed"
+  },
+  {
+    "companyName": "Mindera",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Mindera builds high performance, resilient and scalable software systems to enable businesses across locations.Mindera builds high performance, resilient and scalable software systems to enable businesses across locations.",
+    "location": "📍Porto, Porto",
+    "summary": "Software Engineering",
+    "logo": "https://logo.clearbit.com/mindera.com",
+    "socialLinks": [
+      "https://mindera.com",
+      "https://www.facebook.com/minderasoftwarecraft",
+      "https://twitter.com/minderaswcraft",
+      "https://www.linkedin.com/company/mindera/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": {
+      "frontend": ["Javascript", "Java"],
+      "backend": ["Swift", "Ruby", "Objective-C"]
+    },
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥201-500",
+    "locationtype": "Hybrid"
+  },
+  {
+    "companyName": "Everbridge",
+    "work_description": "Some members of the team work remotely, while others are co-located in one or more offices.",
+    "description": "Everbridge Europe is a global software company that provides enterprise software applications that automate and accelerate organizations.provides mass notification services for urgent and emergency needs",
+    "location": "📍Colchester, Essex, United Kingdom",
+    "summary": "critical event management",
+    "logo": "https://logo.clearbit.com/everbridge.com",
+    "socialLinks": [
+      "http://www.everbridge.com",
+      "https://www.facebook.com/everbridgeinc/",
+      "https://twitter.com/Everbridge",
+      "https://www.linkedin.com/company/everbridge/",
+      "https://www.facebook.com/arcdotdev",
+      "https://www.twitter.com/arcdotdev",
+      "https://www.linkedin.com/company/arcdotdev"
+    ],
+    "technologies": {
+      "frontend": ["MySQL", "SQL", "Mongodb", "Python", "AWS", "K8s"],
+      "backend": ["MySQL", "SQL", "Mongodb", "Python", "AWS", "K8s"]
+    },
+    "fundingDetails": { "Company type": "For Profit" },
+    "companySize": "👥1,001-5,000",
+    "locationtype": "Hybrid"
+  }
+]

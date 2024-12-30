@@ -42,12 +42,12 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<CompanyDe
     const generatedUserAgents = generateUserAgents(1000);
     const randomUserAgent =
         generatedUserAgents[Math.floor(Math.random() * generatedUserAgents.length)];
-    console.log("Random User-Agent:", randomUserAgent);
+    // console.log("Random User-Agent:", randomUserAgent);
     await page.setUserAgent(randomUserAgent);
 
     await page.goto(url,{ waitUntil: 'load', timeout: 0 });
     await page.waitForSelector('.social-links');
-    await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 3000) + 1000));
+    await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 1000)));
     const content = await page.content();
     // console.log({content});
     const $ = cheerio.load(content);
@@ -66,7 +66,7 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<CompanyDe
     const socialLinks: string[] = [];
     $('.social-links a').each((_, element) => {
         const href = $(element).attr('href');
-        console.log(href);
+        // console.log(href);
         if (href) socialLinks.push(href);
     });
    
@@ -154,7 +154,7 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<CompanyDe
         } else {
             console.log('Front-end" element not found or not clicked.');
         }
-        console.log(technologies);
+        // console.log(technologies);
 
         return technologies;
     }
@@ -230,7 +230,7 @@ function saveLocally(allCurrentJobs: Array<CompanyDetails>) {
       const mdData1 = json2md(
         allCurrentJobs.map((company, i) => ({
           h2: `${i + 1}. ${company.companyName}`,
-          img: company.logo,
+        //   img: company.logo,
           p: [
             `**Company Size**: ${company.companySize}`,
             `**Location**: ${company.location}`,
@@ -252,7 +252,7 @@ function saveLocally(allCurrentJobs: Array<CompanyDetails>) {
       const mdData2 = json2md(
         allCurrentJobs.map((company, i) => ({
           h2: `${i + 1}. ${company.companyName}`,
-          img: company.logo,
+        //   img: company.logo,
           p: [
             `**Company Size**: ${company.companySize}`,
             `**Location**: ${company.location}`,
@@ -273,11 +273,11 @@ function saveLocally(allCurrentJobs: Array<CompanyDetails>) {
     const json_data = JSON.stringify(allCurrentJobs);
     // console.log({json_data});
     const date = new Date().toLocaleDateString().replaceAll('/', '-');
-    fs.writeFileSync(`company_${date}_post.json`, json_data);
-    fs.writeFileSync(`company_${date}_post.md`, mdData);
-    fs.writeFileSync(`company_${date}_post1.md`, mdData1);
-    fs.writeFileSync(`company_${date}_post2.md`, mdData2);
-    fs.writeFileSync(`company_${date}_post.xlsx`, xls, 'binary');
+    fs.writeFileSync(`allCompany/company_${date}_post.json`, json_data);
+    fs.writeFileSync(`allCompany/company_${date}_post.md`, mdData);
+    fs.writeFileSync(`allCompany/company_${date}_post1.md`, mdData1);
+    fs.writeFileSync(`allCompany/company_${date}_post2.md`, mdData2);
+    fs.writeFileSync(`allCompany/company_${date}_post.xlsx`, xls, 'binary');
 }
 async function scrapeYC(headless: boolean) {
     const browser = await puppeteer.launch({
@@ -295,35 +295,26 @@ async function scrapeYC(headless: boolean) {
     const generatedUserAgents = generateUserAgents(1000);
     const randomUserAgent =
         generatedUserAgents[Math.floor(Math.random() * generatedUserAgents.length)];
-    console.log("Random User-Agent:", randomUserAgent);
+    // console.log("Random User-Agent:", randomUserAgent);
     await page.setUserAgent(randomUserAgent);
-    await page.goto("https://httpbin.io/user-agent");
-    const bodyText1 = await page.evaluate(() => {
-        return document.body.innerText;
-    });
-    console.log(bodyText1);
+    // await page.goto("https://httpbin.io/user-agent");
+    // const bodyText1 = await page.evaluate(() => {
+    //     return document.body.innerText;
+    // });
     const allCurrentJobs: Array<CompanyDetails> = [];
-    console.log(allCurrentJobs);
+    // console.log(allCurrentJobs);
     // await coreLogic(page, `${url}`, allCurrentJobs);
     // await coreLogic(page,url,allCurrentJobs);
-    for (let i=0;i <data.data.length;i++){
+
+    // not included 95
+    for (let i=0;i <90;i++){
         console.log("Scraping NO : ", i);
         await coreLogic(page,data.data[i].companyLink, allCurrentJobs);
-        console.log(allCurrentJobs);
     }
     saveLocally(allCurrentJobs);
     await browser.close();
-    // return returnScrapData;
 }
 (async () => {
-    // const allCurrentJobs: Array<CompanyDetails> = [];
-    // console.log(allCurrentJobs);
     await scrapeYC(true);
-    // const dataScrap = await scrapeYC('https://arc.dev/company/github', true, allCurrentJobs);
-    // console.log({ dataScrap });
-    
-    // saveLocally(allCurrentJobs);
 })();
-console.log(data.data[0]);
-// console.log(data.length());
 

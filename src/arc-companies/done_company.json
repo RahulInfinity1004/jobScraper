@@ -1,0 +1,519 @@
+{
+  "data": [
+    {
+      "companyName": "Coinbase",
+      "companyLink": "https://arc.dev/company/coinbase",
+      "companyPhoto": "https://logo.clearbit.com/coinbase.com"
+    },
+    {
+      "companyName": "MongoDB",
+      "companyLink": "https://arc.dev/company/mongodb",
+      "companyPhoto": "https://logo.clearbit.com/mongodb.com"
+    },
+    {
+      "companyName": "Pinterest",
+      "companyLink": "https://arc.dev/company/pinterest",
+      "companyPhoto": "https://photos.angel.co/startups/i/281-b4cb685d7b58fc51f60794ec6db2608d-medium_jpg.jpg?buster=1580893755"
+    },
+    {
+      "companyName": "Stripe",
+      "companyLink": "https://arc.dev/company/stripe",
+      "companyPhoto": "https://photos.angel.co/startups/i/37232-b86e6247bcd9846c18c91fe65ca0355d-medium_jpg.jpg?buster=1589637460"
+    },
+    {
+      "companyName": "shopify",
+      "companyLink": "https://arc.dev/company/shopify",
+      "companyPhoto": "https://logo.clearbit.com/shopify.com"
+    },
+    {
+      "companyName": "HubSpot",
+      "companyLink": "https://arc.dev/company/hubspot",
+      "companyPhoto": "https://logo.clearbit.com/hubspot.com"
+    },
+    {
+      "companyName": "atlassian",
+      "companyLink": "https://arc.dev/company/atlassian",
+      "companyPhoto": "https://photos.angel.co/startups/i/65788-6be6737b1863abf0839ccf75db32c8f9-medium_jpg.jpg?buster=1589598635"
+    },
+    {
+      "companyName": "ExtraHop Networks",
+      "companyLink": "https://arc.dev/company/extrahop-networks",
+      "companyPhoto": "https://ucarecdn.com/c3fd8eef-786a-4fd6-ab50-35c41003b88b/"
+    },
+    {
+      "companyName": "LinkedIn",
+      "companyLink": "https://arc.dev/company/linkedin",
+      "companyPhoto": "https://logo.clearbit.com/linkedin.com"
+    },
+    {
+      "companyName": "mozilla",
+      "companyLink": "https://arc.dev/company/mozilla",
+      "companyPhoto": "https://logo.clearbit.com/mozilla.org"
+    },
+    {
+      "companyName": "Reddit",
+      "companyLink": "https://arc.dev/company/reddit",
+      "companyPhoto": "https://photos.angel.co/startups/i/43503-53d2b3bb436c1b4bb9662d2d431e1b2b-medium_jpg.jpg?buster=1580888032"
+    },
+    {
+      "companyName": "github",
+      "companyLink": "https://arc.dev/company/github",
+      "companyPhoto": "https://logo.clearbit.com/github.com"
+    },
+    {
+      "companyName": "Apple",
+      "companyLink": "https://arc.dev/company/apple",
+      "companyPhoto": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "companyName": "Etsy",
+      "companyLink": "https://arc.dev/company/etsy",
+      "companyPhoto": "https://logo.clearbit.com/etsy.com"
+    },
+    {
+      "companyName": "Slack",
+      "companyLink": "https://arc.dev/company/slack",
+      "companyPhoto": "https://logo.clearbit.com/slack.com"
+    },
+    {
+      "companyName": "Fastly",
+      "companyLink": "https://arc.dev/company/fastly",
+      "companyPhoto": "https://photos.angel.co/startups/i/49096-0f814ad4d06ef6ffd2888d7cdf618363-medium_jpg.jpg?buster=1589624143"
+    },
+    {
+      "companyName": "LinkedIn",
+      "companyLink": "https://arc.dev/company/linkedin",
+      "companyPhoto": "https://logo.clearbit.com/linkedin.com"
+    },
+    {
+      "companyName": "circleci",
+      "companyLink": "https://arc.dev/company/circleci",
+      "companyPhoto": "https://photos.angel.co/startups/i/29008-6e6dd5256518d42f047977b7de03d17a-medium_jpg.jpg?buster=1589618068"
+    },
+    {
+      "companyName": "Netflix",
+      "companyLink": "https://arc.dev/company/netflix",
+      "companyPhoto": "https://logo.clearbit.com/netflix.com"
+    },
+    {
+      "companyName": "Cisco",
+      "companyLink": "https://arc.dev/company/cisco",
+      "companyPhoto": "https://logo.clearbit.com/cisco.com"
+    },
+    {
+      "companyName": "Twilio",
+      "companyLink": "https://arc.dev/company/twilio",
+      "companyPhoto": "https://photos.angel.co/startups/i/32509-cfb45c2a611a38850d8ea263d89ab595-medium_jpg.jpg?buster=1589608612"
+    },
+    {
+      "companyName": "Visa",
+      "companyLink": "https://arc.dev/company/visa",
+      "companyPhoto": "https://logo.clearbit.com/visa.com"
+    },
+    {
+      "companyName": "Twitch",
+      "companyLink": "https://arc.dev/company/twitch",
+      "companyPhoto": "https://logo.clearbit.com/twitch.tv"
+    },
+    {
+      "companyName": "Twitter",
+      "companyLink": "https://arc.dev/company/twitter",
+      "companyPhoto": "https://logo.clearbit.com/twitter.com"
+    },
+    {
+      "companyName": "Thoughtworks",
+      "companyLink": "https://arc.dev/company/thoughtworks",
+      "companyPhoto": "https://photos.angel.co/startups/i/47128-7babe77313f5844ea86af6d1487ef435-medium_jpg.jpg?buster=1589647413"
+    },
+    {
+      "companyName": "Sketch",
+      "companyLink": "https://arc.dev/company/sketch",
+      "companyPhoto": "https://photos.angel.co/startups/i/6844832-8e521c443d5abc1c884d1d746768c228-medium_jpg.jpg?buster=1583874985"
+    },
+    {
+      "companyName": "postman",
+      "companyLink": "https://arc.dev/company/postman",
+      "companyPhoto": "https://logo.clearbit.com/postman.com"
+    },
+    {
+      "companyName": "auth0",
+      "companyLink": "https://arc.dev/company/auth0",
+      "companyPhoto": "https://logo.clearbit.com/auth0.com"
+    },
+    {
+      "companyName": "SAP",
+      "companyLink": "https://arc.dev/company/sap",
+      "companyPhoto": "https://logo.clearbit.com/sap.com"
+    },
+    {
+      "companyName": "InVision",
+      "companyLink": "https://arc.dev/company/invision",
+      "companyPhoto": "https://photos.angel.co/startups/i/21569-c86e305ed0dda7ef283d565cce8195fe-medium_jpg.jpg?buster=1589598114"
+    },
+    {
+      "companyName": "Spotify",
+      "companyLink": "https://arc.dev/company/spotify",
+      "companyPhoto": "https://logo.clearbit.com/spotify.com"
+    },
+    {
+      "companyName": "Lyft",
+      "companyLink": "https://arc.dev/company/lyft",
+      "companyPhoto": "https://photos.angel.co/startups/i/6974318-ebfdbdd6d9eb80f4c7f0bf51c39b8ceb-medium_jpg.jpg?buster=1589638588"
+    },
+    {
+      "companyName": "LambdaSchool",
+      "companyLink": "https://arc.dev/company/lambdaschool",
+      "companyPhoto": "https://photos.angel.co/startups/i/4379041-2a3f04e7face7135b20bd366b70f396e-medium_jpg.jpg?buster=1589575461"
+    },
+    {
+      "companyName": "Microsoft",
+      "companyLink": "https://arc.dev/company/microsoft836",
+      "companyPhoto": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
+      "companyName": "Neo4j",
+      "companyLink": "https://arc.dev/company/neo4j",
+      "companyPhoto": "https://logo.clearbit.com/neo4j.com"
+    },
+    {
+      "companyName": "Upwork",
+      "companyLink": "https://arc.dev/company/upwork763",
+      "companyPhoto": "https://logo.clearbit.com/upwork.com"
+    },
+    {
+      "companyName": "Dropbox",
+      "companyLink": "https://arc.dev/company/dropbox",
+      "companyPhoto": "https://logo.clearbit.com/dropbox.com"
+    },
+    {
+      "companyName": "The Washington Post",
+      "companyLink": "https://arc.dev/company/the-washington-post",
+      "companyPhoto": "https://logo.clearbit.com/washingtonpost.com"
+    },
+    {
+      "companyName": "Zynga",
+      "companyLink": "https://arc.dev/company/zynga",
+      "companyPhoto": "https://logo.clearbit.com/zynga.com"
+    },
+    {
+      "companyName": "Zapier",
+      "companyLink": "https://arc.dev/company/zapier",
+      "companyPhoto": "https://logo.clearbit.com/zapier.com"
+    },
+    {
+      "companyName": "PayPal",
+      "companyLink": "https://arc.dev/company/paypal",
+      "companyPhoto": "https://logo.clearbit.com/paypal.com"
+    },
+    {
+      "companyName": "Evernote",
+      "companyLink": "https://arc.dev/company/evernote",
+      "companyPhoto": "https://logo.clearbit.com/evernote.com"
+    },
+    {
+      "companyName": "Revalize",
+      "companyLink": "https://arc.dev/company/revalize",
+      "companyPhoto": "https://c.smartrecruiters.com/sr-company-logo-prod-dc5/6064c2b17cb08244b26c217e/150px?r=s3-eu-central-1"
+    },
+    {
+      "companyName": "General Electric",
+      "companyLink": "https://arc.dev/company/general-electric155",
+      "companyPhoto": "https://logo.clearbit.com/ge.com"
+    },
+    {
+      "companyName": "Software Mind",
+      "companyLink": "https://arc.dev/company/software-mind",
+      "companyPhoto": "https://logo.clearbit.com/softwaremind.com"
+    },
+    {
+      "companyName": "Genesys",
+      "companyLink": "https://arc.dev/company/genesys",
+      "companyPhoto": "https://logo.clearbit.com/genesys.com"
+    },
+    {
+      "companyName": "Nagarro",
+      "companyLink": "https://arc.dev/company/nagarro897",
+      "companyPhoto": "https://logo.clearbit.com/nagarro.com"
+    },
+    {
+      "companyName": "Motorola Solutions",
+      "companyLink": "https://arc.dev/company/motorola-solutions",
+      "companyPhoto": "https://logo.clearbit.com/motorolasolutions.com"
+    },
+    {
+      "companyName": "Turing.com",
+      "companyLink": "https://arc.dev/company/turingcom",
+      "companyPhoto": "https://logo.clearbit.com/turing.com"
+    },
+    {
+      "companyName": "Gusto",
+      "companyLink": "https://arc.dev/company/gusto",
+      "companyPhoto": "https://logo.clearbit.com/gusto.com"
+    },
+    {
+      "companyName": "Databricks",
+      "companyLink": "https://arc.dev/company/databricks",
+      "companyPhoto": "https://logo.clearbit.com/databricks.com"
+    },
+    {
+      "companyName": "Braintrust",
+      "companyLink": "https://arc.dev/company/braintrust",
+      "companyPhoto": "https://logo.clearbit.com/usebraintrust.com"
+    },
+    {
+      "companyName": "ICF",
+      "companyLink": "https://arc.dev/company/icf",
+      "companyPhoto": "https://logo.clearbit.com/icf.com"
+    },
+    {
+      "companyName": "DXC Technology",
+      "companyLink": "https://arc.dev/company/dxc-technology882",
+      "companyPhoto": "https://logo.clearbit.com/dxc.com"
+    },
+    {
+      "companyName": "DMI",
+      "companyLink": "https://arc.dev/company/dmi834",
+      "companyPhoto": "https://logo.clearbit.com/dminc.com"
+    },
+    {
+      "companyName": "abnormal security",
+      "companyLink": "https://arc.dev/company/abnormal-security",
+      "companyPhoto": "https://photos.angel.co/startups/i/5748162-596e2f860d88db2ff562d62fb0ab1a16-medium_jpg.jpg?buster=1526518853"
+    },
+    {
+      "companyName": "Airbnb",
+      "companyLink": "https://arc.dev/company/airbnb",
+      "companyPhoto": "https://logo.clearbit.com/airbnb.com"
+    },
+    {
+      "companyName": "System Soft Technologies",
+      "companyLink": "https://arc.dev/company/system-soft-technologies",
+      "companyPhoto": "https://logo.clearbit.com/sstech.us"
+    },
+    {
+      "companyName": "Hitachi Solutions",
+      "companyLink": "https://arc.dev/company/hitachi-solutions",
+      "companyPhoto": "https://c.smartrecruiters.com/sr-company-logo-prod/58863f31e4b07421c60888a4/150px?r=s3"
+    },
+    {
+      "companyName": "Vervent",
+      "companyLink": "https://arc.dev/company/vervent",
+      "companyPhoto": "https://logo.clearbit.com/vervent.com"
+    },
+    {
+      "companyName": "Deel",
+      "companyLink": "https://arc.dev/company/deel61",
+      "companyPhoto": "https://logo.clearbit.com/deel.com"
+    },
+    {
+      "companyName": "LTK USA",
+      "companyLink": "https://arc.dev/company/ltk-usa",
+      "companyPhoto": "https://logo.clearbit.com/shopltk.com"
+    },
+    {
+      "companyName": "SailPoint",
+      "companyLink": "https://arc.dev/company/sailpoint",
+      "companyPhoto": "https://logo.clearbit.com/sailpoint.com"
+    },
+    {
+      "companyName": "draftkings",
+      "companyLink": "https://arc.dev/company/draftkings",
+      "companyPhoto": "https://photos.angel.co/startups/i/31888-825265e74f51efb18569e0ab8e37b728-medium_jpg.jpg?buster=1589622774"
+    },
+    {
+      "companyName": "Grafana Labs",
+      "companyLink": "https://arc.dev/company/grafana-labs",
+      "companyPhoto": "https://logo.clearbit.com/grafana.com"
+    },
+    {
+      "companyName": "Binance",
+      "companyLink": "https://arc.dev/company/binance",
+      "companyPhoto": "https://logo.clearbit.com/binance.com"
+    },
+    {
+      "companyName": "Varsity Tutors",
+      "companyLink": "https://arc.dev/company/varsity-tutors",
+      "companyPhoto": "https://logo.clearbit.com/varsitytutors.com"
+    },
+    {
+      "companyName": "Mindbody",
+      "companyLink": "https://arc.dev/company/mindbody",
+      "companyPhoto": "https://logo.clearbit.com/mindbodyonline.com"
+    },
+    {
+      "companyName": "E. Breuninger GmbH & Co.",
+      "companyLink": "https://arc.dev/company/e-breuninger-gmbh-co",
+      "companyPhoto": "N/A"
+    },
+    {
+      "companyName": "Flock Safety",
+      "companyLink": "https://arc.dev/company/flock-safety",
+      "companyPhoto": "https://logo.clearbit.com/flocksafety.com"
+    },
+    {
+      "companyName": "SeatGeek",
+      "companyLink": "https://arc.dev/company/seatgeek",
+      "companyPhoto": "https://logo.clearbit.com/seatgeek.com"
+    },
+    {
+      "companyName": "Shield AI",
+      "companyLink": "https://arc.dev/company/shield-ai115",
+      "companyPhoto": "https://photos.angel.co/startups/i/32067-6b963ba06095df8d0db297a3ed875e02-medium_jpg.jpg?buster=1525987413"
+    },
+    {
+      "companyName": "AUTO1 Group",
+      "companyLink": "https://arc.dev/company/auto1-group",
+      "companyPhoto": "https://logo.clearbit.com/auto1-group.com"
+    },
+    {
+      "companyName": "spatial front",
+      "companyLink": "https://arc.dev/company/spatial-front",
+      "companyPhoto": "N/A"
+    },
+    {
+      "companyName": "Jerry",
+      "companyLink": "https://arc.dev/company/jerryai",
+      "companyPhoto": "https://logo.clearbit.com/getjerry.com"
+    },
+    {
+      "companyName": "Whatnot",
+      "companyLink": "https://arc.dev/company/whatnot",
+      "companyPhoto": "https://logo.clearbit.com/whatnot.com"
+    },
+    {
+      "companyName": "Bill.com",
+      "companyLink": "https://arc.dev/company/billcom",
+      "companyPhoto": "https://logo.clearbit.com/bill.com"
+    },
+    {
+      "companyName": "Insight Global",
+      "companyLink": "https://arc.dev/company/insight-global",
+      "companyPhoto": "https://logo.clearbit.com/insightglobal.com"
+    },
+    {
+      "companyName": "NerdWallet",
+      "companyLink": "https://arc.dev/company/nerdwallet",
+      "companyPhoto": "https://logo.clearbit.com/nerdwallet.com"
+    },
+    {
+      "companyName": "6sense",
+      "companyLink": "https://arc.dev/company/6sense",
+      "companyPhoto": "https://logo.clearbit.com/6sense.com"
+    },
+    {
+      "companyName": "Siemens",
+      "companyLink": "https://arc.dev/company/siemens",
+      "companyPhoto": "https://logo.clearbit.com/siemens.com"
+    },
+    {
+      "companyName": "Brillio",
+      "companyLink": "https://arc.dev/company/brillio",
+      "companyPhoto": "https://logo.clearbit.com/brillio.com"
+    },
+    {
+      "companyName": "Netskope",
+      "companyLink": "https://arc.dev/company/netskope",
+      "companyPhoto": "https://logo.clearbit.com/netskope.com"
+    },
+    {
+      "companyName": "Deutsche Telekom IT Solutions",
+      "companyLink": "https://arc.dev/company/deutsche-telekom-it-solutions",
+      "companyPhoto": "https://logo.clearbit.com/deutschetelekomitsolutions.hu"
+    },
+    {
+      "companyName": "CrowdStrike",
+      "companyLink": "https://arc.dev/company/crowdstrike",
+      "companyPhoto": "https://logo.clearbit.com/crowdstrike.com"
+    },
+    {
+      "companyName": "V-Soft Consulting Group",
+      "companyLink": "https://arc.dev/company/vsoft-consulting",
+      "companyPhoto": "https://logo.clearbit.com/vsoftconsulting.com"
+    },
+    {
+      "companyName": "Panorama Education",
+      "companyLink": "https://arc.dev/company/panorama-education",
+      "companyPhoto": "https://photos.angel.co/startups/i/256206-151aeec3c7bef89494f3dfbb14cf2cb7-medium_jpg.jpg?buster=1589647843"
+    },
+    {
+      "companyName": "Vertex",
+      "companyLink": "https://arc.dev/company/vertex",
+      "companyPhoto": "https://logo.clearbit.com/vertexinc.com"
+    },
+    {
+      "companyName": "Contentful",
+      "companyLink": "https://arc.dev/company/contentful",
+      "companyPhoto": "https://logo.clearbit.com/contentful.com"
+    },
+    {
+      "companyName": "Oportun",
+      "companyLink": "https://arc.dev/company/oportun",
+      "companyPhoto": "https://logo.clearbit.com/oportun.com"
+    },
+    {
+      "companyName": "Kraken",
+      "companyLink": "https://arc.dev/company/kraken",
+      "companyPhoto": "https://logo.clearbit.com/kraken.com"
+    },
+    {
+      "companyName": "Monzo",
+      "companyLink": "https://arc.dev/company/monzo-bank",
+      "companyPhoto": "https://photos.angel.co/startups/i/975823-9438464e7e345f2c7352b94b9a8dc3cf-medium_jpg.jpg?buster=1589580689"
+    },
+    {
+      "companyName": "axon",
+      "companyLink": "https://arc.dev/company/axon",
+      "companyPhoto": "https://logo.clearbit.com/axon.com"
+    },
+    {
+      "companyName": "Nisum",
+      "companyLink": "https://arc.dev/company/nisum",
+      "companyPhoto": "https://logo.clearbit.com/nisum.com"
+    },
+    {
+      "companyName": "Kin Insurance",
+      "companyLink": "https://arc.dev/company/kin-insurance",
+      "companyPhoto": "https://logo.clearbit.com/kin.com"
+    },
+    {
+      "companyName": "PandaDoc",
+      "companyLink": "https://arc.dev/company/pandadoc",
+      "companyPhoto": "https://logo.clearbit.com/pandadoc.com"
+    },
+    {
+      "companyName": "Cribl",
+      "companyLink": "https://arc.dev/company/cribl",
+      "companyPhoto": "https://logo.clearbit.com/cribl.io"
+    },
+    {
+      "companyName": "pleo",
+      "companyLink": "https://arc.dev/company/pleo",
+      "companyPhoto": "https://logo.clearbit.com/pleo.io"
+    },
+    {
+      "companyName": "QAD, Inc.",
+      "companyLink": "https://arc.dev/company/qad-inc",
+      "companyPhoto": "https://logo.clearbit.com/qad.com"
+    },
+    {
+      "companyName": "Yahoo",
+      "companyLink": "https://arc.dev/company/yahoo540",
+      "companyPhoto": "https://logo.clearbit.com/yahooinc.com"
+    },
+    {
+      "companyName": "Sprinto",
+      "companyLink": "https://arc.dev/company/gosprinto",
+      "companyPhoto": "https://logo.clearbit.com/sprinto.com"
+    },
+    {
+      "companyName": "Mindera",
+      "companyLink": "https://arc.dev/company/mindera",
+      "companyPhoto": "https://logo.clearbit.com/mindera.com"
+    },
+    {
+      "companyName": "Everbridge",
+      "companyLink": "https://arc.dev/company/everbridge",
+      "companyPhoto": "https://logo.clearbit.com/everbridge.com"
+    }
+  ]
+}

@@ -27,14 +27,20 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Run Puppeteer YC Job script
-        run: npx ts-node src/ycombinator/scrapeYC.ts
+      # - name: Run Puppeteer YC Job script
+      #   run: npx ts-node src/ycombinator/scrapeYC.ts
       
       - name: Run Puppeteer Company Details
         run: npx ts-node src/arc-companies/allCompaniesDetails.ts
+     
+       - name: Upload allCompany folder
+        uses: actions/upload-artifact@v4
+        with:
+          name: company-data
+          path: allCompany
 
-      - name: Run Puppeteer Javascript Job script
-        run: npx ts-node src/javascript-jobs/javascriptJobs.ts
+      # - name: Run Puppeteer Javascript Job script
+      #   run: npx ts-node src/javascript-jobs/javascriptJobs.ts
 
       - name: Commit and push changes
         run: |
