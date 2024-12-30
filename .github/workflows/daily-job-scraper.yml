@@ -32,8 +32,9 @@ jobs:
       
       - name: Run Puppeteer Company Details
         run: npx ts-node src/arc-companies/allCompaniesDetails.ts
-     
-       - name: Upload allCompany folder
+      
+      - name: Pack Artifacts
+        if: failure()
         uses: actions/upload-artifact@v4
         with:
           name: company-data
