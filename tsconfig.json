@@ -11,5 +11,5 @@
         "strictNullChecks": false,
         "resolveJsonModule": true
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "allCompany/saveLocally.ts"],
 }

@@ -10,7 +10,6 @@ import UserAgent from "user-agents";
 import { Browser, Page, Puppeteer } from "puppeteer";
 import { generateUserAgents } from "../twitter/generateUserAgent";
 var json2xls = require('json2xls');
-
 puppeteer.use(StealthPlugins());
 puppeteer.use(RandomUserAgent({
     customFn: () => new UserAgent().random().toString(),
