@@ -305,10 +305,10 @@ async function scrapeYC(headless: boolean) {
     // await coreLogic(page, `${url}`, allCurrentJobs);
     // await coreLogic(page,url,allCurrentJobs);
 
-    for (let i=1800;i <data.data.length;i++){
-        console.log("Scraping NO : ", i);
-        await coreLogic(page,data.data[i].companyLink, allCurrentJobs);
-    }
+    // for (let i=1800;i <data.data.length;i++){
+    //     console.log("Scraping NO : ", i);
+    //     await coreLogic(page,data.data[i].companyLink, allCurrentJobs);
+    // }
     saveLocally(allCurrentJobs);
     await browser.close();
 }

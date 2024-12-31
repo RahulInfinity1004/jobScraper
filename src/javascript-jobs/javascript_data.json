@@ -1,4 +1,5 @@
-[
+{
+  "data":[
   {
     "companyPhoto": "https://javascript.jobs/storage/images/company/676078cedeb83.png",
     "link": "https://javascript.jobs/job/react-native-developer-48",
@@ -7199,4 +7200,4 @@
     "dayofPosting": "4M",
     "location": ""
   }
-]
+]}
