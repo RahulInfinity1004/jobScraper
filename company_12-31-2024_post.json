@@ -1,0 +1,362 @@
+[
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/676078cedeb83.png",
+    "link": "https://javascript.jobs/job/react-native-developer-48",
+    "JobTitle": "React Native Developer",
+    "role": "Full Time Remote",
+    "companyName": "Questronix Corporation",
+    "dayofPosting": "3D",
+    "location": "Philippines"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/673f8a8167a30.jpeg",
+    "link": "https://javascript.jobs/job/front-end-react-developer-remote",
+    "JobTitle": "Front End - React Developer (Remote)",
+    "role": "Full Time Remote",
+    "companyName": "Codvo.ai",
+    "dayofPosting": "3D",
+    "location": "India"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef2324245.jpeg",
+    "link": "https://javascript.jobs/job/backend-typescript-developer-aws-with-aillm-1",
+    "JobTitle": "Backend Typescript Developer (AWS) with AI/LLM",
+    "role": "Full Time Remote",
+    "companyName": "Kolomolo",
+    "dayofPosting": "3D",
+    "location": "Colombia"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef2916154.png",
+    "link": "https://javascript.jobs/job/consultant-mobile-developer-react-native-1",
+    "JobTitle": "Consultant Mobile Developer React Native",
+    "role": "Full Time Remote",
+    "companyName": "Thoughtworks",
+    "dayofPosting": "4D",
+    "location": "Ecuador"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef2916154.png",
+    "link": "https://javascript.jobs/job/consultat-mobile-developer-react-native",
+    "JobTitle": "Consultat Mobile Developer React Native",
+    "role": "Full Time Remote",
+    "companyName": "Thoughtworks",
+    "dayofPosting": "4D",
+    "location": "Peru"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eeb1c7126.jpg",
+    "link": "https://javascript.jobs/job/sr-front-end-react-engineer-1",
+    "JobTitle": "Sr Front End React Engineer",
+    "role": "Full Time Remote",
+    "companyName": "Zipdev",
+    "dayofPosting": "4D",
+    "location": "Peru"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6761cb210ea9c.jpeg",
+    "link": "https://javascript.jobs/job/senior-vanilla-js-developer-2",
+    "JobTitle": "Senior Vanilla JS Developer",
+    "role": "Full Time Remote",
+    "companyName": "SELIUK LTD",
+    "dayofPosting": "5D",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef2916154.png",
+    "link": "https://javascript.jobs/job/consultant-mobile-developer-react-native",
+    "JobTitle": "Consultant Mobile Developer React Native",
+    "role": "Full Time Remote",
+    "companyName": "Thoughtworks",
+    "dayofPosting": "5D",
+    "location": "Chile"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eea9bf7f6.jpeg",
+    "link": "https://javascript.jobs/job/senior-front-end-engineer-angularjs",
+    "JobTitle": "Senior Front-end Engineer (Angular.js)",
+    "role": "Full Time Contractual Remote",
+    "companyName": "Xenon7",
+    "dayofPosting": "5D",
+    "location": "United Arab Emirates"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee7a12795.jpeg",
+    "link": "https://javascript.jobs/job/nodejs-aws-backend-developer-mid-jr",
+    "JobTitle": "NodeJS + AWS Backend Developer (Mid - Jr)",
+    "role": "Full Time Remote",
+    "companyName": "Tekton Labs",
+    "dayofPosting": "6D",
+    "location": "Argentina"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/676c563094f71.png",
+    "link": "https://javascript.jobs/job/senior-react-developer-remote",
+    "JobTitle": "Senior React Developer - Remote",
+    "role": "Full Time Remote",
+    "companyName": "InnovationTeam",
+    "dayofPosting": "6D",
+    "location": "Egypt"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee6f5e0b8.jpg",
+    "link": "https://javascript.jobs/job/fluent-ukrainian-vuejs-developer-ukraine",
+    "JobTitle": "(fluent Ukrainian) Vue.js Developer (Ukraine)",
+    "role": "Full Time Remote",
+    "companyName": "SupportYourApp",
+    "dayofPosting": "6D",
+    "location": "Ukraine"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee6f5e0b8.jpg",
+    "link": "https://javascript.jobs/job/fluent-ukrainian-vuejs-developer-poland",
+    "JobTitle": "(fluent Ukrainian) Vue.js Developer (Poland)",
+    "role": "Full Time Remote",
+    "companyName": "SupportYourApp",
+    "dayofPosting": "6D",
+    "location": "Poland"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef05780c5.png",
+    "link": "https://javascript.jobs/job/full-stack-typescript-engineer",
+    "JobTitle": "Full-Stack TypeScript Engineer",
+    "role": "Full Time Remote",
+    "companyName": "Wander",
+    "dayofPosting": "6D",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef05780c5.png",
+    "link": "https://javascript.jobs/job/typescript-engineer-event-driven-systems",
+    "JobTitle": "TypeScript Engineer - Event-Driven Systems",
+    "role": "Full Time Remote",
+    "companyName": "Wander",
+    "dayofPosting": "6D",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef05780c5.png",
+    "link": "https://javascript.jobs/job/typescript-infrastructure-engineer",
+    "JobTitle": "TypeScript Infrastructure Engineer",
+    "role": "Full Time Remote",
+    "companyName": "Wander",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ef05780c5.png",
+    "link": "https://javascript.jobs/job/backend-typescript-engineer-core-services",
+    "JobTitle": "Backend TypeScript Engineer - Core Services",
+    "role": "Full Time Remote",
+    "companyName": "Wander",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee5d3f6e2.png",
+    "link": "https://javascript.jobs/job/software-engineer-angular-8",
+    "JobTitle": "Software Engineer - Angular",
+    "role": "Full Time Remote",
+    "companyName": "Softheon",
+    "dayofPosting": "1W",
+    "location": "United States"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed5e1846e.jpg",
+    "link": "https://javascript.jobs/job/software-developer-vuejs-nz-asset-management-wfh",
+    "JobTitle": "Software Developer- Vue.js (NZ Asset Management, WFH)",
+    "role": "Full Time Remote",
+    "companyName": "ConnectOS",
+    "dayofPosting": "1W",
+    "location": "Philippines"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/674a133840357.jpeg",
+    "link": "https://javascript.jobs/job/lead-react-developer-13",
+    "JobTitle": "Lead React Developer",
+    "role": "Full Time Remote",
+    "companyName": "Sequoia Connect",
+    "dayofPosting": "1W",
+    "location": "Mexico"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714edec17083.png",
+    "link": "https://javascript.jobs/job/senior-mobile-automation-engineer-react-native-remote-latam",
+    "JobTitle": "Senior Mobile Automation Engineer (React Native) - (Remote - LATAM)",
+    "role": "Full Time Remote",
+    "companyName": "Luxury Presence",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eeb3e7938.jpg",
+    "link": "https://javascript.jobs/job/pessoa-desenvolvedora-fullstack-reactkotlin",
+    "JobTitle": "Pessoa Desenvolvedora Fullstack - React/Kotlin",
+    "role": "Full Time Remote",
+    "companyName": "Zup",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eeb3e7938.jpg",
+    "link": "https://javascript.jobs/job/pessoa-desenvolvedora-angular-and-micro-front-end-senior-1",
+    "JobTitle": "Pessoa Desenvolvedora Angular and Micro Front-end - Sênior",
+    "role": "Full Time Remote",
+    "companyName": "Zup",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed394df7e.jpg",
+    "link": "https://javascript.jobs/job/senior-backend-engineer-nodejs-indonesia",
+    "JobTitle": "Senior Backend Engineer, NodeJs (Indonesia)",
+    "role": "Full Time Remote",
+    "companyName": "Bjak",
+    "dayofPosting": "1W",
+    "location": "Indonesia"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ede223d37.png",
+    "link": "https://javascript.jobs/job/javascript-developer-25",
+    "JobTitle": "JavaScript Developer",
+    "role": "Full Time Remote",
+    "companyName": "Launchpad Technologies",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eeec24ff0.jpeg",
+    "link": "https://javascript.jobs/job/react-developer-remote",
+    "JobTitle": "React Developer (Remote)",
+    "role": "Full Time Remote",
+    "companyName": "OPENLANE",
+    "dayofPosting": "1W",
+    "location": "United States"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714edce3998b.png",
+    "link": "https://javascript.jobs/job/senior-software-development-engineer-in-test-typescript-playwright",
+    "JobTitle": "Senior Software Development Engineer in Test (TypeScript & Playwright)",
+    "role": "Full Time Remote",
+    "companyName": "IT Labs",
+    "dayofPosting": "1W",
+    "location": "North Macedonia"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eeffe0319.jpg",
+    "link": "https://javascript.jobs/job/senior-full-stack-developer-angularexpressjs",
+    "JobTitle": "Senior Full-Stack Developer (Angular/ExpressJS)",
+    "role": "Full Time Remote",
+    "companyName": "Worldly",
+    "dayofPosting": "1W",
+    "location": "Brazil"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed6bb2d5a.jpg",
+    "link": "https://javascript.jobs/job/software-engineer-javascriptvue-uk",
+    "JobTitle": "Software Engineer - Javascript/Vue (UK)",
+    "role": "Full Time Remote",
+    "companyName": "Dayshape",
+    "dayofPosting": "1W",
+    "location": "United Kingdom"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eed59afdb.png",
+    "link": "https://javascript.jobs/job/senior-technical-writer-nodejs-100-remote-uk",
+    "JobTitle": "Senior Technical Writer (NodeJS) (100% Remote - UK)",
+    "role": "Full Time Remote",
+    "companyName": "Tether Operations Limited",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/676b04c50b123.png",
+    "link": "https://javascript.jobs/job/javascript-technical-interviewer",
+    "JobTitle": "JavaScript Technical Interviewer",
+    "role": "Full Time Remote",
+    "companyName": "Intetics",
+    "dayofPosting": "1W",
+    "location": "Ukraine"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/675890f93f3c9.jpg",
+    "link": "https://javascript.jobs/job/senior-software-engineer-be-elixir-fe-react",
+    "JobTitle": "Senior Software Engineer (BE: Elixir, FE: React)",
+    "role": "Full Time Remote",
+    "companyName": "Cadmus",
+    "dayofPosting": "1W",
+    "location": "Indonesia"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee771a591.jpg",
+    "link": "https://javascript.jobs/job/senior-typescript-developer-w-blockchain-experience",
+    "JobTitle": "Senior Typescript Developer w/ Blockchain Experience",
+    "role": "Full Time Remote",
+    "companyName": "Tatum",
+    "dayofPosting": "1W",
+    "location": "Czechia"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed06ec695.png",
+    "link": "https://javascript.jobs/job/senior-frontend-software-engineer-with-angular-3",
+    "JobTitle": "Senior Frontend Software Engineer (with Angular)",
+    "role": "Full Time Remote",
+    "companyName": "Accesa & RaRo",
+    "dayofPosting": "1W",
+    "location": "Romania"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed6d53dee.png",
+    "link": "https://javascript.jobs/job/backend-engineer-nodejstypescript",
+    "JobTitle": "Backend Engineer (Node.js/Typescript)",
+    "role": "Full Time Remote",
+    "companyName": "Deel",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee5b9d246.jpg",
+    "link": "https://javascript.jobs/job/midsenior-fullstack-engineer-typescriptjavascript-100-wmd-ho-chi-minh-city-hybridremote-work-1",
+    "JobTitle": "Mid/Senior Fullstack Engineer (Typescript/Javascript) - 100% (w/m/d) - Ho Chi Minh City - Hybrid/Remote Work",
+    "role": "Full Time Remote",
+    "companyName": "SMG Swiss Marketplace Group",
+    "dayofPosting": "1W",
+    "location": "Vietnam"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ee8b9180e.png",
+    "link": "https://javascript.jobs/job/mid-to-mid-senior-react-native-software-engineer",
+    "JobTitle": "Mid to Mid-Senior React Native Software Engineer",
+    "role": "Full Time Contractual Remote",
+    "companyName": "Umpisa Inc",
+    "dayofPosting": "1W",
+    "location": "Philippines"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714edf94323d.jpg",
+    "link": "https://javascript.jobs/job/senior-react-native-developer-android",
+    "JobTitle": "Senior React Native Developer (Android)",
+    "role": "Full Time Remote",
+    "companyName": "Mindera",
+    "dayofPosting": "1W",
+    "location": "Portugal"
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714eed59afdb.png",
+    "link": "https://javascript.jobs/job/senior-technical-documentation-manager-nodejs-100-remote-spain",
+    "JobTitle": "Senior Technical Documentation Manager (NodeJS) (100% Remote - Spain)",
+    "role": "Full Time Remote",
+    "companyName": "Tether Operations Limited",
+    "dayofPosting": "1W",
+    "location": ""
+  },
+  {
+    "companyPhoto": "https://javascript.jobs/storage/images/company/6714ed6d53dee.png",
+    "link": "https://javascript.jobs/job/senior-backend-engineer-nodejstypescript-1",
+    "JobTitle": "Senior Backend Engineer (Node.js/Typescript)",
+    "role": "Full Time Remote",
+    "companyName": "Deel",
+    "dayofPosting": "1W",
+    "location": ""
+  }
+]

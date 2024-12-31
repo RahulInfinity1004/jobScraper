@@ -50,7 +50,9 @@ async function coreLogic(page: Page, url: string) {
             ]
         }))
     );
-    const date = new Date().toLocaleDateString().replaceAll('/', '-');
+     const json_data = JSON.stringify(allCurrentJobs);
+     const date = new Date().toLocaleDateString().replaceAll('/', '-');
+     fs.writeFileSync(`yc-daily-post/${date}_post.json`, json_data);
     fs.writeFileSync(`yc-daily-post/${date}_post.md`, mdData);
     fs.writeFileSync(`yc-daily-post/${date}_post.xlsx`, xls, 'binary');
     return allCurrentJobs;

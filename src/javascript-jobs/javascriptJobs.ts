@@ -17,9 +17,13 @@ interface Jobs {
     [key: string]: string
 }
 async function coreLogic(page: Page, url: string, allCurrentJobs:Array<Jobs>) {
+    const generatedUserAgents = generateUserAgents(1000);
+    const randomUserAgent =
+        generatedUserAgents[Math.floor(Math.random() * generatedUserAgents.length)];
+    await page.setUserAgent(randomUserAgent);
     await page.goto(url,{ waitUntil: 'load', timeout: 0 });
     await page.waitForSelector('[class="row"]');
-    await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 3000) + 1000));
+    await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * 1000)+ 500));
     const content = await page.content();
     const $ = cheerio.load(content);
     const regex = /^Full Time\s*\n\s*\n\s*Remote$/;
@@ -41,22 +45,35 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<Jobs>) {
 }
 function saveLocally(allCurrentJobs: Array<Jobs>) {
     const xls = json2xls(allCurrentJobs);
-    const mdData = json2md(
-        allCurrentJobs.map((job, i) => ({
-            h2: `${i}). ${job.companyName}`,
-            img: job.companyPhoto,
-            p: [
-                `**Title:** ${job.JobTitle}`,
-                `**Role:** ${job.role}`,
-                `**Type of Role:** ${job.typeOfRole}`,
-                `**Date** ${job.dayofPosting}`,
-                `**Location** ${job.location}`,
-                `[Apply Here](${job.link})`
-                
-            ]
-        }))
-    );
+    const mdData = json2md([
+        {
+            table: {
+                headers: [
+                    'Company', 
+                    'Logo', 
+                    'Title', 
+                    'Role', 
+                    'Type of Role', 
+                    'Location', 
+                    'Date', 
+                    'Apply Here'
+                ],
+                rows: allCurrentJobs.map((company, i) => [
+                    `${i + 1}. ${company.companyName}`,
+                    `![Logo](${company.companyPhoto})`,
+                    company.JobTitle || "",
+                    company.role || "",
+                    company.typeOfRole || "",
+                    company.location || "",
+                    company.dayofPosting || "",
+                    `[Apply Here](${company.link})`
+                ])
+            }
+        }
+    ]);
+    const json_data = JSON.stringify(allCurrentJobs);
     const date = new Date().toLocaleDateString().replaceAll('/', '-');
+    fs.writeFileSync(`javascript-jobs-post/company_${date}_post.json`, json_data);
     fs.writeFileSync(`javascript-jobs-post/${date}_post.md`, mdData);
     fs.writeFileSync(`javascript-jobs-post/${date}_post.xlsx`, xls, 'binary');
 }
@@ -76,18 +93,14 @@ async function scrapeYC(url: string, headless: boolean) {
     const generatedUserAgents = generateUserAgents(1000);
     const randomUserAgent =
         generatedUserAgents[Math.floor(Math.random() * generatedUserAgents.length)];
+        await page.setUserAgent(randomUserAgent);
     console.log("Random User-Agent:", randomUserAgent);
-    await page.setUserAgent(randomUserAgent);
-    await page.goto("https://httpbin.io/user-agent");
-    const bodyText1 = await page.evaluate(() => {
-        return document.body.innerText;
-    });
-    console.log(bodyText1);
     // const returnScrapData = await coreLogic(page, url);
     const allCurrentJobs: Array<Jobs> = [];
-    for(let i=1;i<=5;i++){
+    for(let i=1;i<=40;i++){
         await coreLogic(page, `${url}${i==1? '':`?page=${i}`}`, allCurrentJobs);
     }
+    console.log("saving locally");
     saveLocally(allCurrentJobs);
     await browser.close();
     // return returnScrapData;
