@@ -40,22 +40,20 @@ function saveLocally(allCurrentJobs: Array<CompanyDetails>) {
     // console.log({save: allCurrentJobs});
 
     const xls = json2xls(allCurrentJobs);
-    const mdData = json2md(
-        allCurrentJobs.map((company, i) => ({
-          table: {
-            headers: ['Company', 'Logo', 'Company Size', 'Location', 'Summary'],
-            rows: [
-              [
-                `${i + 1}. ${company.companyName}`,
-                `[![Logo](${company.logo})](${company.socialLinks[0]})`,
-                company.companySize,
-                company.location,
-                company.summary
-              ]
-            ]
-          }
-        }))
-      );
+    const mdData = json2md([
+      {
+        table: {
+          headers: ['Company', 'Logo', 'Company Size', 'Location', 'Summary'],
+          rows: allCurrentJobs.map((company, i) => [
+            `${i + 1}. ${company.companyName}`,
+            `[![Logo](${company.logo})](${company.socialLinks[0]})`, // Clickable logo linking to the website
+            company.companySize,
+            company.location,
+            company.summary
+          ])
+        }
+      }
+    ]);
     
       // const mdData = json2md(
       //   allCurrentJobs.map((company, i) => ({

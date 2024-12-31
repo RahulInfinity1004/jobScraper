@@ -1,3 +1,4 @@
+
 | Company | Logo | Company Size | Location | Summary |
 | ------- | ---- | ------------ | -------- | ------- |
 | 1. Coinbase | [![Logo](https://logo.clearbit.com/coinbase.com)](https://coinbase.com) | 💼Fintech, Blockchain/Cryptocurrency | 👥5,001-10,000 | open financial system |
