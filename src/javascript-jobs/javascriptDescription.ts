@@ -17,7 +17,17 @@ puppeteer.use(RandomUserAgent({
 interface Jobs {
     [key: string]: string
 }
-async function coreLogic(page: Page, url: string, allCurrentJobs:Array<Jobs>) {
+
+interface JobTitle {
+    companyPhoto: string;
+    link: string;
+    JobTitle: string;
+    role: string;
+    companyName: string;
+    dayofPosting: string;
+    location: string;
+}
+async function coreLogic(page: Page, url: string, allCurrentJobs:Array<Jobs>, jobTitle: JobTitle) {
     const generatedUserAgents = generateUserAgents(1000);
     const randomUserAgent =
         generatedUserAgents[Math.floor(Math.random() * generatedUserAgents.length)];
@@ -38,7 +48,7 @@ async function coreLogic(page: Page, url: string, allCurrentJobs:Array<Jobs>) {
         return inputText.replace(/[\s]*[\n+]+[\s]*/g, '');
     }
     allCurrentJobs.push({
-        cleanDescription: cleanText(description), applyNowLink, description,company_link
+        applyNowLink, description,company_link, ...jobTitle
     })
 
     console.log(allCurrentJobs);
@@ -102,9 +112,9 @@ async function scrapeYC(url: string, headless: boolean) {
     // }
     for (let i=0;i <data.data.length;i++){
         console.log("Scraping NO : ", i);
-        await coreLogic(page,data.data[i].link, allCurrentJobs);
+        await coreLogic(page,data.data[i].link, allCurrentJobs, data.data[i]);
     }
-    await coreLogic(page, `${url}`, allCurrentJobs);
+    // await coreLogic(page, `${url}`, allCurrentJobs);
     console.log("saving locally");
     saveLocally(allCurrentJobs);
     await browser.close();
